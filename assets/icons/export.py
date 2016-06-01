@@ -53,7 +53,8 @@ special_icons = {
     'icon_new': dict( output_names=['icon_file'] ),
     'icon_file_list': dict( output_names=['icon_enum'] ),
     'icon_collision_2d': dict( output_names=['icon_collision_polygon_2d'] ),
-    'icon_class_list': dict( output_names=['icon_filesystem'] )
+    'icon_class_list': dict( output_names=['icon_filesystem'] ),
+    'icon_colo_ramp': dict( output_names=['icon_graph_color_ramp'] )
 
 }
 
