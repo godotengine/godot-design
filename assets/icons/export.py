@@ -49,7 +49,12 @@ def export_all():
 
 # special cases for icons that will be exported to multiple target pngs or that require transforms.
 special_icons = {
-    'icon_add_track': dict( output_names=['icon_add'] )
+    'icon_add_track': dict( output_names=['icon_add'] ),
+    'icon_new': dict( output_names=['icon_file'] ),
+    'icon_file_list': dict( output_names=['icon_enum'] ),
+    'icon_collision_2d': dict( output_names=['icon_collision_polygon_2d'] ),
+    'icon_class_list': dict( output_names=['icon_filesystem'] )
+
 }
 
 
