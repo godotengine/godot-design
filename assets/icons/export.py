@@ -23,8 +23,8 @@ def export_all():
         # name without extensions
         name_only = file_name.replace('.svg', '')
 
-        img = cairo.ImageSurface(cairo.FORMAT_ARGB32, width, height)
-        ctx = cairo.Context(img)
+        #img = cairo.ImageSurface(cairo.FORMAT_ARGB32, width, height)
+        #ctx = cairo.Context(img)
 
         icon_from_name = name_only
         out_icon_names = [name_only] # export to a png with the same file name
@@ -40,11 +40,15 @@ def export_all():
 
         svg_file_path = 'svg/%s.svg' % icon_from_name
 
-        handle = rsvg.Handle(svg_file_path)
-        handle.render_cairo(ctx)
+        #handle = rsvg.Handle(svg_file_path)
+        #handle.render_cairo(ctx)
 
         for index, out_icon_name in enumerate(out_icon_names):
-            img.write_to_png('out/%s.png' % out_icon_name)
+            os.system('inkscape -z -f {input} -d {dpi} -e{output}'.format(
+                input=svg_file_path,
+                dpi=90,
+                output='out/%s.png' % out_icon_name
+            ))
 
 
 # special cases for icons that will be exported to multiple target pngs or that require transforms.
@@ -54,7 +58,7 @@ special_icons = {
     'icon_file_list': dict( output_names=['icon_enum'] ),
     'icon_collision_2d': dict( output_names=['icon_collision_polygon_2d'] ),
     'icon_class_list': dict( output_names=['icon_filesystem'] ),
-    'icon_colo_ramp': dict( output_names=['icon_graph_color_ramp'] )
+    'icon_color_ramp': dict( output_names=['icon_graph_color_ramp'] )
 
 }
 
