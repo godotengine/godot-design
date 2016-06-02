@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_collision_shape.png"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node_2d.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_collision_shape.svg">
+   sodipodi:docname="icon_script.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="3.1912719"
-     inkscape:cy="5.0517827"
+     inkscape:zoom="45.254833"
+     inkscape:cx="4.7267498"
+     inkscape:cy="8.8495748"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,15 +46,11 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:object-paths="false"
-     inkscape:snap-intersection-paths="false"
-     inkscape:object-nodes="false"
-     inkscape:snap-smooth-nodes="false"
-     inkscape:snap-midpoints="true">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid3336" />
+       id="grid3336"
+       empspacing="4" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -73,17 +69,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <g
-       id="layer1-7"
-       inkscape:label="Layer 1"
-       transform="translate(0,1.1802001e-5)"
-       style="stroke:#fc9c9c;stroke-opacity:0.99607843">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path4139"
-         d="m 8,1050.3622 -6,-3 0,-6 6,-3 6,3 0,6 z"
-         style="fill:none;fill-rule:evenodd;stroke:#fc9c9c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843" />
-    </g>
+    <path
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       d="M 6 1 L 6 2 A 1 1 0 0 0 5 3 L 5 13 L 4 13 L 4 11 L 2 11 L 2 13 A 1 1 0 0 0 2.5 13.865234 A 1 1 0 0 0 3 14 L 3 15 L 10 15 A 2 2 0 0 0 12 13 L 12 5 L 15 5 L 15 3 A 2 2 0 0 0 13 1 L 6 1 z "
+       transform="translate(0,1036.3622)"
+       id="rect4255" />
+    <path
+       style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       d="M 6 1 C 4.8954305 1 4 1.8954305 4 3 L 4 10 L 2 10 L 1 10 L 1 11 L 1 13 C 1 14.104569 1.8954305 15 3 15 C 4.1045695 15 5 14.104569 5 13 L 5 3 C 5 2.4477153 5.4477153 2 6 2 C 6.5522847 2 7 2.4477153 7 3 L 7 4 L 7 5 L 7 6 L 8 6 L 12 6 L 12 5 L 8 5 L 8 4 L 8 3 C 8 1.8954305 7.1045695 1 6 1 z M 2 11 L 4 11 L 4 13 C 4 13.552285 3.5522847 14 3 14 C 2.4477153 14 2 13.552285 2 13 L 2 11 z "
+       transform="translate(0,1036.3622)"
+       id="path4265" />
+    <circle
+       cy="1048.3622"
+       cx="3"
+       id="ellipse4234"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       ry="1.0000174"
+       rx="1" />
   </g>
 </svg>

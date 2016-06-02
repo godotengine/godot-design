@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_collision_shape.png"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node_2d.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_collision_shape.svg">
+   sodipodi:docname="icon_ray_cast.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="3.1912719"
-     inkscape:cy="5.0517827"
+     inkscape:zoom="31.999999"
+     inkscape:cx="7.3699208"
+     inkscape:cy="8.6534602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,15 +46,11 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:object-paths="false"
-     inkscape:snap-intersection-paths="false"
-     inkscape:object-nodes="false"
-     inkscape:snap-smooth-nodes="false"
-     inkscape:snap-midpoints="true">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid3336" />
+       id="grid3336"
+       empspacing="4" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -64,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,17 +69,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <g
-       id="layer1-7"
-       inkscape:label="Layer 1"
-       transform="translate(0,1.1802001e-5)"
-       style="stroke:#fc9c9c;stroke-opacity:0.99607843">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path4139"
-         d="m 8,1050.3622 -6,-3 0,-6 6,-3 6,3 0,6 z"
-         style="fill:none;fill-rule:evenodd;stroke:#fc9c9c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843" />
-    </g>
+    <rect
+       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4154"
+       width="2"
+       height="9"
+       x="7"
+       y="1037.3622" />
+    <path
+       style="fill:#fc9c9c;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.99607843"
+       d="m 4,1046.3622 8,0 -4,5 z"
+       id="path4156"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
