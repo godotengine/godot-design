@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8"
+   width="16"
    height="8"
-   viewBox="0 0 8 8"
+   viewBox="0 0 16 8"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node.png"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_bone.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_edit_resource.svg">
+   sodipodi:docname="icon_interp_cubic.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="63.999997"
-     inkscape:cx="1.8775976"
-     inkscape:cy="5.2018914"
+     inkscape:zoom="45.254834"
+     inkscape:cx="7.5633871"
+     inkscape:cy="5.0840195"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -47,13 +47,14 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
+     showguides="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
+     inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true">
     <inkscape:grid
        type="xygrid"
-       id="grid3336"
-       empspacing="4" />
+       id="grid3336" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -63,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,9 +74,10 @@
      id="layer1"
      transform="translate(0,-1044.3622)">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e0e0e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 1.9472656,1044.3555 a 1.0001,1.0001 0 0 0 -0.546875,1.8066 l 2.9335938,2.2012 -2.9335938,2.1992 a 1.0001,1.0001 0 1 0 1.1992188,1.5996 l 4,-3 a 1.0001,1.0001 0 0 0 0,-1.5996 l -4,-3 a 1.0001,1.0001 0 0 0 -0.6523438,-0.207 z"
-       id="path4137"
-       inkscape:connector-curvature="0" />
+       style="fill:none;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2,1050.3622 c 3,0 3,-4 6,-4 3,0 3,4 6,4"
+       id="path4156"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
   </g>
 </svg>

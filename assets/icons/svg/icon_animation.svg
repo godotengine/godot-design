@@ -18,7 +18,7 @@
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_animation.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_animation (copy).svg">
+   sodipodi:docname="icon_animation.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="6.4562535"
-     inkscape:cy="9.4467948"
+     inkscape:zoom="64"
+     inkscape:cx="10.327464"
+     inkscape:cy="2.5689331"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,5 +83,36 @@
        d="M 14 13.5 L 14 14 L 14.5 14 A 0.5 0.4999913 0 0 1 14 13.5 z "
        transform="translate(0,1036.3622)"
        id="rect4215" />
+    <rect
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4137"
+       width="1"
+       height="3.0000174"
+       x="12"
+       y="1047.3622" />
+    <path
+       id="path4139"
+       transform="translate(0,1036.3622)"
+       d="M 13 8 L 13 14 A 1 1 0 0 0 14 15 L 15 15 L 15 14 L 14 14 L 14 13 L 14 8 L 13 8 z "
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="1050.3622"
+       x="14"
+       height="2"
+       width="1"
+       id="rect4141"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
+    <path
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="path4145"
+       sodipodi:type="arc"
+       sodipodi:cx="14"
+       sodipodi:cy="1050.3622"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       sodipodi:start="1.5707963"
+       sodipodi:end="4.712389"
+       d="m 14,1052.3622 a 2,2 0 0 1 -1.732051,-1 2,2 0 0 1 0,-2 2,2 0 0 1 1.732051,-1"
+       sodipodi:open="true" />
   </g>
 </svg>

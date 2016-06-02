@@ -55,10 +55,16 @@ def export_all():
 special_icons = {
     'icon_add_track': dict( output_names=['icon_add'] ),
     'icon_new': dict( output_names=['icon_file'] ),
+    'icon_animation_tree_player': dict( output_names=['icon_animation_tree'] ),
+    'icon_tool_rotate': dict( output_names=['icon_reload'] ),
+    'icon_folder': dict( output_names=['icon_load'] ),
     'icon_file_list': dict( output_names=['icon_enum'] ),
-    'icon_collision_2d': dict( output_names=['icon_collision_polygon_2d'] ),
+    'icon_collision_2d': dict( output_names=['icon_collision_polygon_2d', 'icon_polygon_2d'] ),
     'icon_class_list': dict( output_names=['icon_filesystem'] ),
-    'icon_color_ramp': dict( output_names=['icon_graph_color_ramp'] )
+    'icon_color_ramp': dict( output_names=['icon_graph_color_ramp'] ),
+    'icon_translation': dict( output_names=['icon_p_hash_translation'] ),
+    'icon_shader': dict( output_names=['icon_shader_material', 'icon_material_shader'] ),
+    'icon_canvas_item_shader_graph': dict( output_names=['icon_material_shader_graph'] ),
 
 }
 

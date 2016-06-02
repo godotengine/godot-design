@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_new.png"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_key.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_new.svg">
+   sodipodi:docname="icon_joy_button.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.999999"
-     inkscape:cx="7.9365607"
-     inkscape:cy="9.3818162"
+     inkscape:zoom="32.000001"
+     inkscape:cx="4.6871235"
+     inkscape:cy="9.8655688"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-8"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:snap-bbox="true"
@@ -46,7 +46,11 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -68,16 +72,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <g
-       id="layer1-8"
-       inkscape:label="Layer 1"
-       transform="translate(0,-1.6949463e-5)">
-      <path
-         sodipodi:nodetypes="ccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4158"
-         d="m 2,1037.3622 0,14 12,0 0,-10 -4,0 0,-4 z m 9,0 0,3 3,0 z"
-         style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4194"
+       width="7"
+       height="14"
+       x="27"
+       y="1038.3622" />
+    <path
+       style="opacity:1;fill:#e0e0e0;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 1 1 L 1 15 L 13 15 C 14.104569 15 15 14.1046 15 13 L 15 3 C 15 1.8954 14.104569 1 13 1 L 1 1 z M 8 2 A 2 2 0 0 1 10 4 A 2 2 0 0 1 8 6 A 2 2 0 0 1 6 4 A 2 2 0 0 1 8 2 z M 4 6 A 2 2 0 0 1 6 8 A 2 2 0 0 1 4 10 A 2 2 0 0 1 2 8 A 2 2 0 0 1 4 6 z M 12 6 A 2 2 0 0 1 14 8 A 2 2 0 0 1 12 10 A 2 2 0 0 1 10 8 A 2 2 0 0 1 12 6 z M 8 10 A 2 2 0 0 1 10 12 A 2 2 0 0 1 8 14 A 2 2 0 0 1 6 12 A 2 2 0 0 1 8 10 z "
+       transform="translate(0,1036.3622)"
+       id="rect4196" />
   </g>
 </svg>
