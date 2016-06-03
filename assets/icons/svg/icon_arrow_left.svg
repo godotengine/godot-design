@@ -18,7 +18,7 @@
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_arrow_left.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_arrow_left (copy).svg">
+   sodipodi:docname="icon_arrow_left.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="6.4028114"
-     inkscape:cy="9.5102698"
+     inkscape:cx="5.5903114"
+     inkscape:cy="9.1977698"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,28 +75,23 @@
        height="2.0000174"
        x="6"
        y="1043.3622" />
-    <g
-       id="layer1-2"
-       inkscape:label="Layer 1"
-       transform="matrix(0.71428934,0,0,0.88888708,13.500051,121.8199)">
-      <path
-         inkscape:transform-center-x="1.1667546"
-         sodipodi:type="star"
-         style="fill:#e0e0e0;fill-opacity:0.99607843;stroke:none;stroke-linecap:round;stroke-opacity:1"
-         id="path4435"
-         sodipodi:sides="3"
-         sodipodi:cx="5"
-         sodipodi:cy="-1038.3622"
-         sodipodi:r1="3.6055512"
-         sodipodi:r2="1.8027756"
-         sodipodi:arg1="0.52359878"
-         sodipodi:arg2="1.5707963"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 8.122499,-1036.5594 -3.122499,0 -3.122499,0 1.5612495,-2.7042 L 5,-1041.9677 l 1.5612495,2.7041 z"
-         inkscape:transform-center-y="-9.6789057e-05"
-         transform="matrix(0,1.4411577,1.2942939,0,1331.1125,1030.6564)" />
-    </g>
+    <path
+       transform="matrix(0,1.2810265,0.92450034,0,964.29952,1037.9571)"
+       inkscape:transform-center-y="-9.6789057e-05"
+       d="m 8.122499,-1036.5594 -3.122499,0 -3.122499,0 1.5612495,-2.7042 L 5,-1041.9677 l 1.5612495,2.7041 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5707963"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="1.8027756"
+       sodipodi:r1="3.6055512"
+       sodipodi:cy="-1038.3622"
+       sodipodi:cx="5"
+       sodipodi:sides="3"
+       id="path4435"
+       style="fill:#e0e0e0;fill-opacity:0.99607843;stroke:none;stroke-linecap:round;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:transform-center-x="1.1667546" />
   </g>
 </svg>

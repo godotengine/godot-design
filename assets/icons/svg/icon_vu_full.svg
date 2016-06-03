@@ -7,20 +7,47 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="128"
+   height="4"
+   viewBox="0 0 128 4"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node_2d.png"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_vu_full.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_rayito.svg">
+   sodipodi:docname="icon_vu_full.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4211">
+      <stop
+         style="stop-color:#84ffb1;stop-opacity:1"
+         offset="0"
+         id="stop4213" />
+      <stop
+         id="stop4221"
+         offset="0.5"
+         style="stop-color:#e1dc7a;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff8484;stop-opacity:1"
+         offset="1"
+         id="stop4215" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4211"
+       id="linearGradient4219"
+       x1="0"
+       y1="2"
+       x2="128"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,9 +55,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254833"
-     inkscape:cx="7.3867117"
-     inkscape:cy="10.060119"
+     inkscape:zoom="8"
+     inkscape:cx="37.328607"
+     inkscape:cy="1.9176337"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -47,9 +74,11 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
+     inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -71,20 +100,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1036.3622)">
-    <rect
-       style="opacity:1;fill:#ffd684;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4154"
-       width="7"
-       height="7.0710845"
-       x="152.19386"
-       y="1047.8939"
-       transform="matrix(1,0,-0.14142068,0.98994959,0,0)" />
+     transform="translate(0,-1048.3622)">
     <path
-       style="opacity:1;fill:#ffd684;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 6,1043.3622 8,0 -9,8 z"
-       id="rect4156"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       style="opacity:1;fill:url(#linearGradient4219);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 2 0 A 2 2 0 0 0 0 2 A 2 2 0 0 0 2 4 L 80 4 L 80 0 L 2 0 z M 82 0 L 82 4 L 126 4 A 2 2 0 0 0 128 2 A 2 2 0 0 0 126 0 L 82 0 z "
+       transform="translate(0,1048.3622)"
+       id="rect4204" />
   </g>
 </svg>
