@@ -1,30 +1,25 @@
 # -*- coding: utf-8 -*-
 
-# Basic exporter for svg icons
+# Basic exporter for svg icons (requires Inkscape)
 
-import cairo
-import rsvg
 import os.path
 from os import listdir
 from os.path import isfile, join
 
-width, height = 16, 16
-
-SVGS_PATH = 'svg/'
+SVGS_PATH = 'source/'
+OUT_DIR = 'out/'
+DPI = 90
 
 
 def export_all():
-    if not os.path.isdir('out/'):
-        os.makedirs('out/')
+    if not os.path.isdir(OUT_DIR):
+        os.makedirs(OUT_DIR)
 
     file_names = [f for f in listdir(SVGS_PATH) if isfile(join(SVGS_PATH, f))]
 
     for file_name in file_names:
         # name without extensions
         name_only = file_name.replace('.svg', '')
-
-        #img = cairo.ImageSurface(cairo.FORMAT_ARGB32, width, height)
-        #ctx = cairo.Context(img)
 
         icon_from_name = name_only
         out_icon_names = [name_only] # export to a png with the same file name
@@ -38,16 +33,13 @@ def export_all():
                 if special_icon.has_key('output_names'):
                     out_icon_names += special_icon['output_names']
 
-        svg_file_path = 'svg/%s.svg' % icon_from_name
-
-        #handle = rsvg.Handle(svg_file_path)
-        #handle.render_cairo(ctx)
+        svg_file_path = '%s%s.svg' % (SVGS_PATH, icon_from_name)
 
         for index, out_icon_name in enumerate(out_icon_names):
             os.system('inkscape -z -f {input} -d {dpi} -e{output}'.format(
                 input=svg_file_path,
-                dpi=90,
-                output='out/%s.png' % out_icon_name
+                dpi=DPI,
+                output='%s%s.png' % (OUT_DIR, out_icon_name)
             ))
 
 
@@ -57,6 +49,7 @@ special_icons = {
     'icon_new': dict( output_names=['icon_file'] ),
     'icon_animation_tree_player': dict( output_names=['icon_animation_tree'] ),
     'icon_tool_rotate': dict( output_names=['icon_reload'] ),
+    'icon_multi_edit': dict( output_names=['icon_multi_node_edit'] ),
     'icon_folder': dict( output_names=['icon_load'] ),
     'icon_file_list': dict( output_names=['icon_enum'] ),
     'icon_collision_2d': dict( output_names=['icon_collision_polygon_2d', 'icon_polygon_2d'] ),
