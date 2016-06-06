@@ -18,7 +18,7 @@
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_bone.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_control_align_bottom_left.svg">
+   sodipodi:docname="icon_control_align_bottom_right.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -88,7 +88,7 @@
        id="rect4171"
        width="4"
        height="4.0000172"
-       x="10"
+       x="2"
        y="1046.3622" />
   </g>
 </svg>
