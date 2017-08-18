@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_bone.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -47,7 +47,8 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="true">
+     showguides="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -71,8 +72,9 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#84c2ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       d="m 1,1037.3622 0,2 0,2 1,0 0,-1 1,0 0,-1 4,0 0,3 0,5 0,2 -1,0 0,1 -1,0 0,1 6,0 0,-1 -1,0 0,-1 -1,0 0,-10 4,0 0,1 1,0 0,1 1,0 0,-2 0,-2 -13,0 -1,0 z"
+       d="m 1,1037.3622 v 4 h 1 v -1 h 1 v -1 h 4 v 10 H 6 v 1 H 5 v 1 h 6 v -1 h -1 v -1 H 9 v -10 h 4 v 1 h 1 v 1 h 1 v -4 z"
        id="rect4212"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_check_box.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="3.8008276"
-     inkscape:cy="9.8639842"
+     inkscape:zoom="32"
+     inkscape:cx="7.6714009"
+     inkscape:cy="7.8338029"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -59,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,15 +71,10 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 3 2 C 1.8954305 2 1 2.8954305 1 4 L 1 13 C 1 14.104569 1.8954305 15 3 15 L 12 15 C 13.104569 15 14 14.104569 14 13 L 14 8.0722656 L 12 10.072266 L 12 13 L 3 13 L 3 4 L 9.5859375 4 L 11.585938 2 L 3 2 z "
+       d="M 3,2 C 1.8954305,2 1,2.8954305 1,4 v 9 c 0,1.104569 0.8954305,2 2,2 h 9 c 1.104569,0 2,-0.895431 2,-2 V 8.0722656 L 12,10.072266 V 13 H 3 V 4 H 9.5859375 L 11.585938,2 Z M 12.363281,4.0507812 7.4140625,9 6,7.5859375 4.5859375,9 7.4140625,11.828125 13.777344,5.4648438 Z"
        transform="translate(0,1036.3622)"
-       id="rect4143" />
-    <path
-       style="opacity:1;fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 4.5857864,1045.3622 6,1046.7764 l 1.4142136,1.4142 1.4142135,-1.4142 4.9497479,-4.9497 -1.414214,-1.4142 -4.9497474,4.9497 L 6,1043.948 l -1.4142136,1.4142 z"
-       id="rect4163"
+       id="rect4143"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-3.1819807"
-       inkscape:transform-center-y="-1.06065" />
+       sodipodi:nodetypes="sssssscccccccsccccccc" />
   </g>
 </svg>

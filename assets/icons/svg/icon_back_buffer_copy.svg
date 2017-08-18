@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_back_buffer_copy.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="3.8381635"
-     inkscape:cy="8.4004461"
+     inkscape:zoom="32"
+     inkscape:cx="5.52993"
+     inkscape:cy="10.143172"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -70,8 +71,10 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#a5b7f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1 1 L 1 3 L 1 10 L 1 12 L 6 12 L 6 10 L 3 10 L 3 3 L 9 3 L 9 1 L 3 1 L 1 1 z M 7 4 L 7 6 L 7 15 L 9 15 L 15 15 L 15 13 L 15 6 L 15 4 L 7 4 z M 9 6 L 13 6 L 13 13 L 9 13 L 9 6 z "
+       d="M 1,1 V 12 H 6 V 10 H 3 V 3 H 9 V 1 Z m 6,3 v 11 h 8 V 4 Z m 2,2 h 4 v 7 H 9 Z"
        transform="translate(0,1036.3622)"
-       id="rect4146" />
+       id="rect4146"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
   </g>
 </svg>

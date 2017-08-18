@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_check_button.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="5.7571127"
-     inkscape:cy="12.193142"
+     inkscape:zoom="32"
+     inkscape:cx="5.177084"
+     inkscape:cy="8.8255468"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -60,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,14 +72,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 5 4 A 4 4 0 0 0 1 8 A 4 4 0 0 0 5 12 L 11 12 L 11 10 L 5 10 A 2 2 0 0 1 3 8 A 2 2 0 0 1 5 6 L 11 6 L 11 4 L 5 4 z "
+       d="M 5 4 A 4 4 0 0 0 1 8 A 4 4 0 0 0 5 12 L 11 12 A 4 4 0 0 0 15 8 A 4 4 0 0 0 11 4 L 5 4 z M 5 6 L 7.5410156 6 A 4 4 0 0 0 7 8 A 4 4 0 0 0 7.5410156 10 L 5 10 A 2 2 0 0 1 3 8 A 2 2 0 0 1 5 6 z "
        transform="translate(0,1036.3622)"
        id="rect4143" />
-    <circle
-       r="4"
-       cy="1044.3622"
-       cx="11"
-       id="circle4147"
-       style="opacity:1;fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_key.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -50,7 +50,8 @@
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="false"
-     inkscape:snap-smooth-nodes="false">
+     inkscape:snap-smooth-nodes="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -63,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,64 +75,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       d="M 2 1 A 1 1 0 0 0 1 2 L 1 14 A 1 1 0 0 0 2 15 L 14 15 A 1 1 0 0 0 15 14 L 15 2 A 1 1 0 0 0 14 1 L 2 1 z M 3 3 L 13 3 L 13 11 L 3 11 L 3 3 z "
+       d="M 2 1 A 1 1 0 0 0 1 2 L 1 14 A 1 1 0 0 0 2 15 L 14 15 A 1 1 0 0 0 15 14 L 15 2 A 1 1 0 0 0 14 1 L 2 1 z M 3 3 L 13 3 L 13 11 L 3 11 L 3 3 z M 9 5 L 9 6 L 8 6 L 8 7 L 6 7 L 6 8 L 5 8 L 5 9 L 4 9 L 4 10 L 6 10 L 8 10 L 10 10 L 12 10 L 12 8 L 11 8 L 11 6 L 10 6 L 10 5 L 9 5 z "
        transform="translate(0,1036.3622)"
        id="rect4156" />
-    <rect
-       y="1043.3622"
-       x="6"
-       height="1"
-       width="2"
-       id="rect4197"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <rect
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="rect4199"
-       width="2"
-       height="2.0000174"
-       x="6"
-       y="1044.3622" />
-    <rect
-       y="1045.3622"
-       x="4"
-       height="1"
-       width="2"
-       id="rect4201"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <rect
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="rect4203"
-       width="2"
-       height="2.0000174"
-       x="8"
-       y="1044.3622" />
-    <rect
-       y="1044.3622"
-       x="10"
-       height="2.0000174"
-       width="2"
-       id="rect4205"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <rect
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="rect4207"
-       width="3"
-       height="2.0000174"
-       x="8"
-       y="1042.3622" />
-    <rect
-       y="1041.3622"
-       x="9"
-       height="1"
-       width="1"
-       id="rect4217"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <rect
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="rect4219"
-       width="1"
-       height="1"
-       x="5"
-       y="1044.3622" />
   </g>
 </svg>

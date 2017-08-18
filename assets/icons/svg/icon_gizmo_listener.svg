@@ -14,7 +14,7 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/2x/icon_gizmo_listener.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -60,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,28 +74,10 @@
        id="g4175"
        transform="matrix(2,0,0,2,-16,-1040.3622)">
       <path
-         inkscape:connector-curvature="0"
-         id="path4274"
-         d="m 63.712867,990.36221 -6.953133,4.0152 a 24.000031,23.999015 0 0 1 3.242193,11.98399 24.000031,23.999015 0 0 1 -3.234381,11.9917 l 6.945321,4.0076 a 32.000041,31.998687 0 0 0 0,-31.99849 z"
-         style="opacity:1;fill:#f7f5cf;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="1034.3602"
-         x="19.999998"
-         height="7.9996719"
-         width="4.0000052"
-         id="rect4147"
-         style="opacity:1;fill:#f7f5cf;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         id="path4149"
-         d="m 32.000015,986.3622 a 20.000026,19.999179 0 0 0 -20.000026,19.9992 l 8.00001,0 a 12.000015,11.999507 0 0 1 12.000016,-11.99959 12.000015,11.999507 0 0 1 12.000015,11.99959 l 8.00001,0 A 20.000026,19.999179 0 0 0 32.000015,986.3622 Z"
-         style="opacity:1;fill:#f7f5cf;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="csc"
-         inkscape:connector-curvature="0"
-         id="path4155"
-         d="m 48.000035,1006.3614 c 0,15.9993 -12.000015,15.9993 -12.000015,19.9993 0,11.9992 -8.00001,11.9992 -12.000016,11.9992"
-         style="fill:none;fill-rule:evenodd;stroke:#f7f5cf;stroke-width:7.99984121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#f7f5cf;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 48 8 A 40.000052 39.998358 0 0 0 8 47.998047 L 24 47.998047 A 24.00003 23.999014 0 0 1 48 24 A 24.00003 23.999014 0 0 1 72 47.998047 C 72 61.997447 67.669952 66.857209 62.878906 70.849609 C 60.483384 72.845809 57.842626 74.379766 55.066406 76.384766 C 53.678296 77.387166 52.200257 78.510772 50.761719 80.326172 C 49.323181 82.141372 48 84.998047 48 87.998047 C 48 98.219447 45.461745 100.58757 42.882812 102.13477 C 40.30388 103.68197 36.000006 103.99414 32 103.99414 L 32 103.99609 L 24 103.99609 L 24 119.99609 L 32 119.99609 L 32 119.99414 C 36.000006 119.99414 43.696105 120.30572 51.117188 115.85352 C 58.177414 111.61752 63.314926 102.57452 63.8125 89.853516 C 63.996002 89.689916 63.961328 89.698622 64.433594 89.357422 C 66.15738 88.112422 69.51661 86.146178 73.121094 83.142578 C 80.330064 77.135378 88 65.997447 88 47.998047 A 40.000052 39.998358 0 0 0 48 8 z M 111.42578 16 L 97.519531 24.03125 A 48.000062 47.99803 0 0 1 104.00391 47.998047 A 48.000062 47.99803 0 0 1 97.535156 71.982422 L 111.42578 79.996094 A 64.000082 63.997374 0 0 0 111.42578 16 z "
+         transform="matrix(0.5,0,0,0.5,8,982.3622)"
+         id="path4274" />
     </g>
   </g>
 </svg>

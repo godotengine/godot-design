@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_camera.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254832"
-     inkscape:cx="9.4597381"
-     inkscape:cy="7.3949222"
+     inkscape:zoom="32"
+     inkscape:cx="9.7476631"
+     inkscape:cy="11.496813"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -47,7 +47,8 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="true">
+     showguides="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -61,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,50 +71,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <rect
-       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4144"
-       width="10"
-       height="5.0000172"
-       x="1"
-       y="1042.3622" />
-    <rect
-       y="1040.3622"
-       x="3"
-       height="9.0000172"
-       width="6"
-       id="rect4146"
-       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4148"
-       cx="3"
-       cy="1042.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1047.3622"
-       cx="3"
-       id="circle4150"
-       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4152"
-       cx="9"
-       cy="1042.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1047.3622"
-       cx="9"
-       id="circle4154"
-       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 12,7 0,3 3,1 0,-5 z"
-       transform="translate(0,1036.3622)"
-       id="rect4156"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2.99998283;stroke-linecap:round;stroke-linejoin:round"
+       d="M 9,1038.3622 A 3.0000174,3.0000174 0 0 0 6.0117188,1041.1396 2.9999828,2.9999828 0 0 0 4,1040.3622 a 2.9999828,2.9999828 0 0 0 -3,3 2.9999828,2.9999828 0 0 0 2,2.8243 v 2.1757 c 0,0.554 0.4459904,1 1,1 h 6 c 0.55401,0 1,-0.446 1,-1 v -1 l 3,2 v -6 l -3,2 v -1.7695 a 3.0000174,3.0000174 0 0 0 1,-2.2305 3.0000174,3.0000174 0 0 0 -3,-3 z"
+       id="path4272"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

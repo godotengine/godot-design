@@ -14,7 +14,7 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_gizmo_light.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="47.738891"
-     inkscape:cy="58.814006"
+     inkscape:zoom="2.828427"
+     inkscape:cx="41.624638"
+     inkscape:cy="64.225294"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -60,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,20 +72,8 @@
      transform="translate(0,-924.3622)">
     <path
        style="opacity:1;fill:#f7f5cf;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 64,930.3622 a 40.000068,40.000068 0 0 0 -40,40 40.000068,40.000068 0 0 0 40,40 40.000068,40.000068 0 0 0 40,-40 40.000068,40.000068 0 0 0 -40,-40 z m 0,12 a 28,28 0 0 1 28,28 28,28 0 0 1 -28,28 28,28 0 0 1 -28,-28 28,28 0 0 1 28,-28 z"
-       id="path4162"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#f7f5cf;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 48,1002.3622 0,20 a 8,8 0 0 0 8,8 l 16,0 a 8,8 0 0 0 8,-8 l 0,-20 -32,0 z"
-       id="rect4164"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#f7f5cf;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4168"
-       width="16"
-       height="8.0000696"
-       x="56"
-       y="1038.3622" />
+       d="M 64 6 A 40.000068 40.000068 0 0 0 24 46 A 40.000068 40.000068 0 0 0 48 82.607422 L 48 98 A 8 8 0 0 0 56 106 L 72 106 A 8 8 0 0 0 80 98 L 80 82.636719 A 40.000068 40.000068 0 0 0 104 46 A 40.000068 40.000068 0 0 0 64 6 z M 64 18 A 28 28 0 0 1 92 46 A 28 28 0 0 1 64 74 A 28 28 0 0 1 36 46 A 28 28 0 0 1 64 18 z M 56 114 L 56 122 L 72 122 L 72 114 L 56 114 z "
+       transform="translate(0,924.3622)"
+       id="path4162" />
   </g>
 </svg>

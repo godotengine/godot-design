@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_collision_shape.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="4.4024065"
-     inkscape:cy="8.249577"
+     inkscape:cx="8.1700361"
+     inkscape:cy="7.8050713"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,7 +51,8 @@
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true">
+     inkscape:snap-midpoints="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -64,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,36 +76,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843"
-       d="m 11,1040.3622 a 3.9999826,3.9999826 0 0 0 -4,4 3.9999826,3.9999826 0 0 0 4,4 3.9999826,3.9999826 0 0 0 4,-4 3.9999826,3.9999826 0 0 0 -4,-4 z m 0,2 a 2.0000174,2.0000174 0 0 1 2,2 2.0000174,2.0000174 0 0 1 -2,2 2.0000174,2.0000174 0 0 1 -2,-2 2.0000174,2.0000174 0 0 1 2,-2 z"
-       id="path4255"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843"
-       id="rect4265"
-       width="4"
-       height="2.0000348"
-       x="9"
-       y="1046.3622" />
-    <rect
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843"
-       id="rect4269"
-       width="2"
-       height="1.0000174"
-       x="10"
-       y="1050.3622" />
-    <rect
-       y="1047.3622"
-       x="9"
-       height="2.0000348"
-       width="4"
-       id="rect4274"
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843"
-       ry="1.0000174" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#fc9c9c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 6,1050.3622 -4,0 0,-12 10,0"
-       id="path4293"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       d="M 2 1 A 1.0001 1.0001 0 0 0 1 2 L 1 14 A 1.0001 1.0001 0 0 0 2 15 L 6 15 L 6 13 L 3 13 L 3 3 L 12 3 L 12 1 L 2 1 z M 11 4 A 3.9999826 3.9999826 0 0 0 7 8 A 3.9999826 3.9999826 0 0 0 9 11.458984 L 9 12 C 9 12.55401 9.4459904 13 10 13 L 12 13 C 12.55401 13 13 12.55401 13 12 L 13 11.458984 A 3.9999826 3.9999826 0 0 0 15 8 A 3.9999826 3.9999826 0 0 0 11 4 z M 11 6 A 2.0000174 2.0000174 0 0 1 13 8 A 2.0000174 2.0000174 0 0 1 11 10 A 2.0000174 2.0000174 0 0 1 9 8 A 2.0000174 2.0000174 0 0 1 11 6 z M 10 14 L 10 15 L 12 15 L 12 14 L 10 14 z "
+       transform="translate(0,1036.3622)"
+       id="path4255" />
   </g>
 </svg>
