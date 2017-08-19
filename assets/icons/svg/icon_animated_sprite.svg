@@ -70,12 +70,12 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#c4d0f5;fill-opacity:0.39215687;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#a5b7f0;fill-opacity:0.39215687;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 10.5 0 A 5.5 5.4999914 0 0 0 5.1699219 4.1699219 A 5.5 5.4999914 0 0 1 6.5 4 A 5.5 5.4999914 0 0 1 12 9.5 A 5.5 5.4999914 0 0 1 11.830078 10.830078 A 5.5 5.4999914 0 0 0 16 5.5 A 5.5 5.4999914 0 0 0 10.5 0 z "
        transform="translate(0,1036.3622)"
        id="ellipse4157" />
     <path
-       style="opacity:1;fill:#a5b7f1;fill-opacity:0.58823532;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#a5b7f0;fill-opacity:0.58823532;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 8.5 2 A 5.5 5.4999914 0 0 0 3.7441406 4.7480469 A 5.5 5.4999914 0 0 1 6.5 4 A 5.5 5.4999914 0 0 1 12 9.5 A 5.5 5.4999914 0 0 1 11.255859 12.251953 A 5.5 5.4999914 0 0 0 14 7.5 A 5.5 5.4999914 0 0 0 8.5 2 z "
        transform="translate(0,1036.3622)"
        id="ellipse4155" />

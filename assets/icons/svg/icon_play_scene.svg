@@ -72,19 +72,19 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1 7 L 1 13 L 3 13 L 3 15 L 15 15 L 15 7 L 1 7 z M 6 8 L 11 11 L 6 14 L 6 8 z "
        transform="translate(0,1036.3622)"
        id="rect4136" />
     <path
-       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 0.7112932,1040.3831 1,1042.3622 l 2.2438279,-0.3273 -0.8182578,-1.9018 -1.7142769,0.25 z m 3.6933293,-0.5387 0.8182578,1.9018 1.9790524,-0.2887 -0.8182579,-1.9018 -1.9790523,0.2887 z m 3.9581047,-0.5775 0.8182579,1.9018 1.9790519,-0.2887 -0.818257,-1.9018 -1.9790528,0.2887 z m 3.9581048,-0.5774 0.818258,1.9018 1.714277,-0.25 -0.288707,-1.9791 -2.243828,0.3273 z"
        id="rect4138"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="-6.7823301"
        inkscape:transform-center-y="-2" />
     <circle
-       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4150"
        cx="3"
        cy="1049.3622"
@@ -94,6 +94,6 @@
        cy="1049.3622"
        cx="13"
        id="circle4152"
-       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

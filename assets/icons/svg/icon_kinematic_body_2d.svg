@@ -69,7 +69,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#a5b7f5;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#a5b7f3;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 4 4 L 4 5 L 5 5 L 5 4 L 4 4 z M 5 5 L 5 6 L 4 6 L 4 7 L 3 7 L 3 8 L 2 8 L 2 9 L 2 11 L 3 11 L 3 9 L 4 9 L 4 10 L 4 11 L 5 11 L 5 10 L 10 10 L 10 11 L 11 11 L 11 9 L 12 9 L 12 11 L 13 11 L 13 9 L 13 8 L 12 8 L 12 7 L 11 7 L 11 6 L 10 6 L 10 5 L 9 5 L 9 6 L 6 6 L 6 5 L 5 5 z M 10 5 L 11 5 L 11 4 L 10 4 L 10 5 z M 10 11 L 8 11 L 8 12 L 10 12 L 10 11 z M 5 11 L 5 12 L 7 12 L 7 11 L 5 11 z M 5 7 L 6 7 L 6 8 L 5 8 L 5 7 z M 9 7 L 10 7 L 10 8 L 9 8 L 9 7 z "
        transform="translate(0,1036.3622)"
        id="rect4154" />
