@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_button.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -42,11 +42,12 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -69,44 +70,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <rect
+    <path
        style="fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11,1.1738281 C 9.8021407,1.5973281 9.0009552,2.7295 9,4 9.0009552,5.2705 9.8021407,6.4026719 11,6.8261719 V 14 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 V 6.8242188 C 14.197184,6.4010188 14.998218,5.2698 15,4 14.9982,2.7302 14.197184,1.5989812 13,1.1757812 V 4 C 13,4.5523 12.552285,5 12,5 11.447715,5 11,4.5523 11,4 Z M 4,3 v 3.1328125 l -1.4453125,-0.9648437 -1.109375,1.6640624 3,2 c 0.3359017,0.2238947 0.7734733,0.2238947 1.109375,0 l 3,-2 L 7.4453125,5.1679688 6,6.1328125 V 3 Z M 3.5,11 C 2.669,11 2,11.669 2,12.5 V 13 H 1 v 2 H 9 V 13 H 8 V 12.5 C 8,11.669 7.331,11 6.5,11 Z"
+       transform="translate(0,1036.3622)"
        id="rect829"
-       width="6"
-       height="4"
-       x="2"
-       y="1047.3622"
-       ry="1.5" />
-    <rect
-       style="fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:1.71867573;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect825"
-       width="8"
-       height="2.0000174"
-       x="1"
-       y="1049.3622"
-       ry="0" />
-    <path
-       style="fill:none;stroke:#a5efac;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2,1042.3622 3,2 3,-2"
-       id="path831"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#a5efac;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 5,1039.3622 v 5"
-       id="path833"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <g
-       id="layer1-7"
-       inkscape:label="Layer 1"
-       transform="translate(9,-1)"
-       style="fill:#a5efac;fill-opacity:1">
-      <path
-         id="path828"
-         d="m 2,1038.536 c -1.1978593,0.4235 -1.9990448,1.5557 -2,2.8262 9.552e-4,1.2705 0.8021407,2.4027 2,2.8262 v 6.1738 1 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -4 -3.1758 c 1.197184,-0.4232 1.998218,-1.5544 2,-2.8242 -0.00178,-1.2698 -0.802816,-2.401 -2,-2.8242 v 2.8242 c 0,0.5523 -0.447715,1 -1,1 -0.552285,0 -1,-0.4477 -1,-1 z"
-         style="fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccsssccccsssc" />
-    </g>
+       sodipodi:nodetypes="ccccsccccsssccccccccccccssccccccsss" />
   </g>
 </svg>

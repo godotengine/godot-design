@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node_2d.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -50,7 +50,8 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -73,48 +74,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <circle
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="path4138"
-       cx="4"
-       cy="1044.3622"
-       r="3" />
-    <ellipse
-       cy="1042.3622"
-       cx="8"
-       id="circle4140"
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       rx="4.4999948"
-       ry="4.9999847" />
     <path
-       style="fill:#fc9c9c;fill-opacity:0.99607843;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4,1047.3622 8,0 0,-4 -8,0 z"
-       id="path4142"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <circle
-       r="3"
-       cy="1044.3622"
-       cx="12"
-       id="circle4146"
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <circle
        style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="path4148"
-       cx="4"
-       cy="1049.3622"
-       r="1" />
-    <circle
-       r="1"
-       cy="1049.3622"
-       cx="12"
-       id="circle4150"
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <circle
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="circle4152"
-       cx="8"
-       cy="1050.3622"
-       r="1" />
+       d="M 8 1 A 4.4999948 4.9999847 0 0 0 3.5859375 5.03125 A 3 3 0 0 0 1 8 A 3 3 0 0 0 4 11 L 12 11 A 3 3 0 0 0 15 8 A 3 3 0 0 0 12.410156 5.0332031 A 4.4999948 4.9999847 0 0 0 8 1 z M 4 12 A 1 1 0 0 0 3 13 A 1 1 0 0 0 4 14 A 1 1 0 0 0 5 13 A 1 1 0 0 0 4 12 z M 12 12 A 1 1 0 0 0 11 13 A 1 1 0 0 0 12 14 A 1 1 0 0 0 13 13 A 1 1 0 0 0 12 12 z M 8 13 A 1 1 0 0 0 7 14 A 1 1 0 0 0 8 15 A 1 1 0 0 0 9 14 A 1 1 0 0 0 8 13 z "
+       transform="translate(0,1036.3622)"
+       id="path4138" />
   </g>
 </svg>

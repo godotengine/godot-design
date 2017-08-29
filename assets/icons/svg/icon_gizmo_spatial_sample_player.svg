@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="112.35398"
-     inkscape:cy="45.531722"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="72.527924"
+     inkscape:cy="72.219266"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -75,7 +75,7 @@
      transform="translate(0,-924.3622)">
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f7f5cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 63.882812 12.003906 A 4.0004 4.0004 0 0 0 61.171875 13.171875 L 30.34375 44.001953 L 16 44.001953 A 4.0004 4.0004 0 0 0 12 48.001953 L 12 80.001953 A 4.0004 4.0004 0 0 0 16 84.001953 L 30.34375 84.001953 L 61.171875 114.83008 A 4.0004 4.0004 0 0 0 68 112.00195 L 68 16 A 4.0004 4.0004 0 0 0 63.882812 12.003906 z M 110 18 A 6 6 0 0 0 104 24 L 104 104 A 6 6 0 0 0 110 110 A 6 6 0 0 0 116 104 L 116 24 A 6 6 0 0 0 110 18 z M 86 42 A 6 6 0 0 0 80 48 L 80 80 L 80.349609 80 A 6 6 0 0 0 86 84 A 6 6 0 0 0 91.648438 80 L 92 80 L 92 48 A 6 6 0 0 0 86 42 z "
+       d="M 63.882812 12.003906 C 62.863318 12.033406 61.89359 12.451204 61.171875 13.171875 L 30.34375 44.001953 L 16 44.001953 C 13.790952 44.002174 12.000221 45.792905 12 48.001953 L 12 80.001953 C 12.000221 82.211001 13.790952 84.001732 16 84.001953 L 30.34375 84.001953 L 61.171875 114.83008 C 63.691855 117.34831 67.998607 115.5645 68 112.00195 L 68 16 C 67.9985 13.745908 66.135944 11.938099 63.882812 12.003906 z M 112 16 A 4 4 0 0 0 108 20 L 108 108 A 4 4 0 0 0 112 112 A 4 4 0 0 0 116 108 L 116 20 A 4 4 0 0 0 112 16 z M 88 40 A 4 4 0 0 0 84 44 L 84 84 A 4 4 0 0 0 88 88 A 4 4 0 0 0 92 84 L 92 44 A 4 4 0 0 0 88 40 z "
        transform="translate(0,924.3622)"
        id="path4277" />
   </g>

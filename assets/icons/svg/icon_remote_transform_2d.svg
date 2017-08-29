@@ -74,7 +74,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:#a5b7f7;fill-opacity:0.98823529;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#a5b7f3;fill-opacity:0.98823529;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path834"
        sodipodi:type="arc"
        sodipodi:cx="8"
@@ -85,7 +85,7 @@
        sodipodi:end="3.1415927"
        d="m 12,1047.3622 a 4,4 0 0 1 -2.0000001,3.4641 4,4 0 0 1 -4,0 A 4,4 0 0 1 4,1047.3622 l 4,0 z" />
     <rect
-       style="fill:#a5b7f7;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#a5b7f3;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect836"
        width="2"
        height="4"
@@ -93,7 +93,7 @@
        y="1045.3622"
        ry="1" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#a5b7f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#a5b7f3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path838"
        sodipodi:type="arc"
        sodipodi:cx="8"
@@ -106,7 +106,7 @@
        sodipodi:open="true" />
     <path
        id="circle848"
-       style="fill:none;fill-opacity:1;stroke:#a5b7f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#a5b7f3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="arc"
        sodipodi:cx="8"
        sodipodi:cy="1045.3622"

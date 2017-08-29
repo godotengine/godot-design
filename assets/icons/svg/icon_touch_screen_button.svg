@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_sprite.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
@@ -49,7 +49,8 @@
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -75,100 +76,11 @@
        transform="matrix(0.63636994,0,0,0.63636994,10.81847,386.85247)"
        inkscape:label="Layer 1"
        id="g4515"
-       style="fill:#a5b7f8;fill-opacity:0.98823529;stroke:#ffffff;stroke-width:6.28565216;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#a5b7f3;fill-opacity:0.98823529;stroke:#ffffff;stroke-width:6.28565216;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 6.0000004,1040.3624 0,7 0,0.033 -2.4746094,-1.8086 c -0.520152,-0.3803 -1.1948017,-0.4556 -1.6503906,0 -0.4556596,0.4556 -0.4556116,1.1948 0,1.6504 l 4.125,4.125 5.9999996,0 c 1.104569,0 2,-0.8954 2,-2 l 0,-5 -5.9999996,0 0,-4 -2,0 z"
-       id="rect4179"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccscssccccc" />
-    <circle
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4187"
-       cx="7"
-       cy="1040.3622"
-       r="1" />
-    <rect
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="rect4226"
-       width="2"
-       height="1"
-       x="3"
-       y="1040.3622" />
-    <rect
-       y="1037.3622"
-       x="3"
-       height="1"
-       width="8"
-       id="rect4228"
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <rect
-       y="1040.3622"
-       x="9"
-       height="1"
-       width="2"
-       id="rect4230"
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <rect
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="rect4232"
-       width="1"
-       height="2.0000174"
-       x="2"
-       y="1038.3622" />
-    <rect
-       y="1038.3622"
-       x="11"
-       height="2.0000174"
-       width="1"
-       id="rect4234"
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
-    <path
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="path4236"
-       sodipodi:type="arc"
-       sodipodi:cx="3"
-       sodipodi:cy="1038.3622"
-       sodipodi:rx="1"
-       sodipodi:ry="1"
-       sodipodi:start="3.1415927"
-       sodipodi:end="0"
-       d="m 2,1038.3622 a 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 l -1,0 z" />
-    <path
-       d="m -12,1038.3622 a 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 l -1,0 z"
-       sodipodi:end="0"
-       sodipodi:start="3.1415927"
-       sodipodi:ry="1"
-       sodipodi:rx="1"
-       sodipodi:cy="1038.3622"
-       sodipodi:cx="-11"
-       sodipodi:type="arc"
-       id="path4238"
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       transform="scale(-1,1)" />
-    <path
-       transform="scale(-1,-1)"
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="path4240"
-       sodipodi:type="arc"
-       sodipodi:cx="-11"
-       sodipodi:cy="-1040.3622"
-       sodipodi:rx="1"
-       sodipodi:ry="1"
-       sodipodi:start="3.1415927"
-       sodipodi:end="0"
-       d="m -12,-1040.3622 a 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 l -1,0 z" />
-    <path
-       d="m -4,-1040.3622 a 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 l -1,0 z"
-       sodipodi:end="0"
-       sodipodi:start="3.1415927"
-       sodipodi:ry="1"
-       sodipodi:rx="1"
-       sodipodi:cy="-1040.3622"
-       sodipodi:cx="-3"
-       sodipodi:type="arc"
-       id="path4242"
-       style="opacity:1;fill:#a5b7f8;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       transform="scale(-1,-1)" />
+       style="opacity:1;fill:#a5b7f3;fill-opacity:0.98823529;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 3 1 A 1 1 0 0 0 2 2 L 2 4 A 1 1 0 0 0 3 5 L 5 5 L 5 4 L 4 4 L 3 4 L 3 2 L 11 2 L 11 4 L 9 4 L 9 5 L 11 5 A 1 1 0 0 0 12 4 L 12 2 A 1 1 0 0 0 11 1 L 3 1 z M 7 3 A 1 1 0 0 0 6 4 L 6 11 L 6 11.033203 L 3.5253906 9.2246094 C 3.0052386 8.8443094 2.3305889 8.7690094 1.875 9.2246094 C 1.4193404 9.6802094 1.4193884 10.4194 1.875 10.875 L 6 15 L 12 15 C 13.104569 15 14 14.1046 14 13 L 14 8 L 8 8 L 8 4 A 1 1 0 0 0 7 3 z "
+       transform="translate(0,1036.3622)"
+       id="rect4179" />
   </g>
 </svg>

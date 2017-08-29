@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_history.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -50,7 +50,8 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -63,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,14 +75,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e0e0e0;fill-opacity:0.99607843;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 8 2 C 5.4432667 2 2.2093331 3.9476781 1.0449219 7.7050781 A 1.0001 1.0001 0 0 0 1.0390625 8.2753906 C 2.1634651 12.210791 5.5 14 8 14 C 10.5 14 13.836534 12.210791 14.960938 8.2753906 A 1.0001 1.0001 0 0 0 14.960938 7.7226562 C 13.86059 3.9350563 10.554367 2 8 2 z M 8 4 A 4 4 0 0 1 12 8 A 4 4 0 0 1 8 12 A 4 4 0 0 1 4 8 A 4 4 0 0 1 8 4 z "
+       d="M 8 2 C 5.4432667 2 2.2093331 3.9476781 1.0449219 7.7050781 A 1.0001 1.0001 0 0 0 1.0390625 8.2753906 C 2.1634651 12.210791 5.5 14 8 14 C 10.5 14 13.836534 12.210791 14.960938 8.2753906 A 1.0001 1.0001 0 0 0 14.960938 7.7226562 C 13.860589 3.9350563 10.554367 2 8 2 z M 8 4 A 4 4 0 0 1 12 8 A 4 4 0 0 1 8 12 A 4 4 0 0 1 4 8 A 4 4 0 0 1 8 4 z M 8 6 A 2 2 0 0 0 6 8 A 2 2 0 0 0 8 10 A 2 2 0 0 0 10 8 A 2 2 0 0 0 8 6 z "
        transform="translate(0,1036.3622)"
        id="path4165" />
-    <circle
-       r="2"
-       cy="1044.3622"
-       cx="8"
-       id="circle4192"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

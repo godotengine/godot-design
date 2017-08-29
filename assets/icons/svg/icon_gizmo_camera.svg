@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_collision_2d.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:docname="icon_collision_2d.svg">
+   inkscape:version="0.92+devel unknown"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_dependency_changed_hl.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45"
+   sodipodi:docname="icon_gizmo_camera.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.999999"
-     inkscape:cx="8.9698127"
-     inkscape:cy="10.623768"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="33.915928"
+     inkscape:cy="65.532184"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,17 +39,22 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid3336" />
+       id="grid3336"
+       empspacing="4" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -67,12 +72,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1036.3622)">
+     transform="translate(0,-924.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#a5b7f2;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98823529"
-       d="m 14,1050.3622 -12,0 0,-12 12,0 -6,6 z"
-       id="path4144"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       style="fill:#f7f5cf;fill-opacity:1;stroke:none;stroke-width:23.99986267;stroke-linecap:round;stroke-linejoin:round"
+       d="M 76,944.3622 A 24.000138,24.000138 0 0 0 52.093752,966.5814 23.999862,23.999862 0 0 0 36,960.3622 a 23.999862,23.999862 0 0 0 -24,24 23.999862,23.999862 0 0 0 16,22.5944 v 17.4056 c 0,4.432 3.56792,8 8,8 h 48 c 4.43208,0 8,-3.568 8,-8 v -8 l 24,16 v -48 l -24,16 v -14.156 a 24.000138,24.000138 0 0 0 8,-17.844 24.000138,24.000138 0 0 0 -24,-24 z"
+       id="path4272"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

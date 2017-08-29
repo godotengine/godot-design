@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
    inkscape:version="0.92+devel unknown"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_add_track.png"
-   inkscape:export-xdpi="45"
-   inkscape:export-ydpi="45"
-   sodipodi:docname="icon_gui_close_light.svg">
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_gizmo_directional_light.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360"
+   sodipodi:docname="icon_gizmo_spot_light.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000001"
-     inkscape:cx="5.2641929"
-     inkscape:cy="7.5472551"
+     inkscape:zoom="4"
+     inkscape:cx="76.62854"
+     inkscape:cy="36.932947"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -69,11 +69,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1036.3622)">
+     transform="translate(0,-924.3622)">
     <path
-       style="fill:#ffffff;fill-opacity:0.89803922;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3.7578125 2.34375 L 2.34375 3.7578125 L 6.5859375 8 L 2.34375 12.242188 L 3.7578125 13.65625 L 8 9.4140625 L 12.242188 13.65625 L 13.65625 12.242188 L 9.4140625 8 L 13.65625 3.7578125 L 12.242188 2.34375 L 8 6.5859375 L 3.7578125 2.34375 z "
-       transform="translate(0,1036.3622)"
-       id="rect4137" />
+       style="fill:#f7f5cf;stroke-width:2.10818505;stroke-linecap:round;stroke-linejoin:round"
+       d="M 52 8 C 47.56799 8 44 11.56799 44 16 L 44 28 L 44 44.875 A 40 35.999981 0 0 0 24 76 L 52 76 A 12 12 0 0 0 64 88 A 12 12 0 0 0 76 76 L 104 76 A 40 35.999981 0 0 0 84 44.859375 L 84 24 L 84 16 C 84 11.56799 80.43201 8 76 8 L 52 8 z M 40.03125 86.005859 C 39.263323 85.952178 38.47162 86.119656 37.751953 86.535156 L 27.359375 92.535156 C 25.440263 93.643156 24.786531 96.080888 25.894531 98 C 27.002531 99.919112 29.440263 100.57284 31.359375 99.464844 L 41.751953 93.464844 C 43.671065 92.356844 44.322844 89.919112 43.214844 88 C 42.522344 86.800555 41.311128 86.095329 40.03125 86.005859 z M 87.96875 86.005859 C 86.688872 86.095329 85.477656 86.800555 84.785156 88 C 83.677156 89.919112 84.328935 92.356844 86.248047 93.464844 L 96.640625 99.464844 C 98.559737 100.57284 100.99747 99.919112 102.10547 98 C 103.21347 96.080888 102.55974 93.643156 100.64062 92.535156 L 90.248047 86.535156 C 89.52838 86.119656 88.736677 85.952178 87.96875 86.005859 z M 64 100 C 61.784 100 60 101.784 60 104 L 60 116 C 60 118.216 61.784 120 64 120 C 66.216 120 68 118.216 68 116 L 68 104 C 68 101.784 66.216 100 64 100 z "
+       transform="translate(0,924.3622)"
+       id="rect4303" />
   </g>
 </svg>
