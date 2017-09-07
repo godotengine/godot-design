@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="8"
+   height="8"
+   viewBox="0 0 8 8"
    id="svg2"
    version="1.1"
    inkscape:version="0.92+devel unknown"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_control.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:docname="inkscape_template.svg">
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_dependency_changed_hl.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45"
+   sodipodi:docname="icon_key_call.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,18 +28,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.999998"
-     inkscape:cx="7.1605588"
-     inkscape:cy="10.867932"
+     inkscape:zoom="43.417341"
+     inkscape:cx="3.6075137"
+     inkscape:cy="3.8486599"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:window-width="1920"
@@ -47,33 +47,10 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid3336"
-       empspacing="4" />
-    <sodipodi:guide
-       position="13,15"
-       orientation="0,1"
-       id="guide4135"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1,10"
-       orientation="1,0"
-       id="guide4137"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="9,1"
-       orientation="0,1"
-       id="guide4139"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="15,8"
-       orientation="1,0"
-       id="guide4141"
-       inkscape:locked="false" />
+       id="grid3336" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -88,7 +65,18 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="icon"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"/>
+     id="layer1"
+     transform="translate(0,-1044.3622)">
+    <rect
+       style="fill:#adf18f;fill-opacity:1;stroke:none;stroke-width:0.76284212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect814"
+       width="6.1027369"
+       height="6.1027369"
+       x="-741.52698"
+       y="741.08105"
+       ry="0.76285541"
+       transform="rotate(-45)" />
+  </g>
 </svg>

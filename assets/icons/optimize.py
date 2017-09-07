@@ -61,6 +61,10 @@ exceptions = ["icon_editor_pivot", "icon_editor_handle", "icon_editor_3d_handle"
 
 hashes = {}
 
+
+generate_darks = False
+
+
 try:
 	with open("hashes", "r") as f:
 		for l in f.readlines():
@@ -73,8 +77,9 @@ except:
 
 if not isdir("%s" % out_path):
 	mkdir("%s" % out_path)
-if not isdir("%s/dark" % out_path):
-	mkdir("%s/dark" % out_path)
+if generate_darks:
+	if not isdir("%s/dark" % out_path):
+		mkdir("%s/dark" % out_path)
 
 
 
@@ -110,21 +115,22 @@ for file_name in file_names:
 		shell=True
 	)
 
-	color_re = r"(#[0-9A-Fa-f]{6})|(#[0-9A-Fa-f]{3})"
+	if generate_darks:
+		color_re = r"(#[0-9A-Fa-f]{6})|(#[0-9A-Fa-f]{3})"
 
-	with open('{}/{}.svg'.format(out_path, name_only), 'r') as svg:
-		svg_str = svg.read();
+		with open('{}/{}.svg'.format(out_path, name_only), 'r') as svg:
+			svg_str = svg.read();
 
-		if not name_only in exceptions:
-			for m in re.finditer(color_re, svg_str):
-				color = m.group(0)
-				if len(color) == 4:
-					color = "#{}{}{}".format(color[1] * 2, color[2] * 2, color[3] * 2)
-				new_color = colors.get(color.lower())
-				if new_color:
-					svg_str = svg_str[:m.start()] + new_color + svg_str[m.end():]
-		with open('{}/dark/{}.svg'.format(out_path, name_only), 'w') as dark_svg:
-			dark_svg.write(svg_str)
+			if not name_only in exceptions:
+				for m in re.finditer(color_re, svg_str):
+					color = m.group(0)
+					if len(color) == 4:
+						color = "#{}{}{}".format(color[1] * 2, color[2] * 2, color[3] * 2)
+					new_color = colors.get(color.lower())
+					if new_color:
+						svg_str = svg_str[:m.start()] + new_color + svg_str[m.end():]
+			with open('{}/dark/{}.svg'.format(out_path, name_only), 'w') as dark_svg:
+				dark_svg.write(svg_str)
 
 
 

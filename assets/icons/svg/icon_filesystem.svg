@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -16,39 +15,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92+devel unknown"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_add_track.png"
-   inkscape:export-xdpi="45"
-   inkscape:export-ydpi="45"
-   sodipodi:docname="icon_audio_effect_amplify.svg">
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_folder.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="icon_filesystem.svg">
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient959-5"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#ff8484;stop-opacity:1"
-         offset="0"
-         id="stop957-3" />
-      <stop
-         id="stop955-5"
-         offset="0.5"
-         style="stop-color:#e1dc7a;stop-opacity:1" />
-      <stop
-         style="stop-color:#84ffb1;stop-opacity:1"
-         offset="1"
-         id="stop953-6" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient959-5"
-       id="linearGradient4521"
-       x1="9"
-       y1="1037.3622"
-       x2="9"
-       y2="1051.3622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-1036.3622)" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -56,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28.261731"
-     inkscape:cx="6.1096795"
-     inkscape:cy="6.9456422"
+     inkscape:zoom="16"
+     inkscape:cx="2.9860232"
+     inkscape:cy="13.295945"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -75,9 +47,6 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-nodes="true"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -91,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,11 +70,9 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:url(#linearGradient4521);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 2,1 V 9 H 4 V 7 H 6 V 5 H 4 V 3 H 7 V 1 Z m 6,0 2,4 -2,4 h 2 l 1,-2 1,2 h 2 L 12,5 14,1 H 12 L 11,3 10,1 Z m -6,9 v 1 h 2 v -1 z m 2,1 v 1 H 2 V 11 H 1 v 4 h 1 v -2 h 2 v 2 h 1 v -4 z m 2,-1 v 1 4 h 1 v -4 h 1 v 4 h 1 v -4 h 1 v -1 z m 4,1 v 4 h 1 v -4 z m 2,-1 v 5 h 1 v -2 h 2 v -3 z m 1,1 h 1 v 1 h -1 z"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:3.41120887;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 1 1 L 1 6 L 3 6 L 3 14 L 4 14 L 9 14 L 9 15 L 15 15 L 15 12 L 9 12 L 9 13 L 4 13 L 4 9 L 9 9 L 9 10 L 15 10 L 15 7 L 9 7 L 9 8 L 4 8 L 4 6 L 7 6 L 7 2 L 5 2 L 4 1 L 1 1 z "
        transform="translate(0,1036.3622)"
-       id="path4513"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+       id="rect4152" />
   </g>
 </svg>

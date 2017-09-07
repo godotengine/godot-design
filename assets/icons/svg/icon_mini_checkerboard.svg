@@ -18,7 +18,7 @@
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_control.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="inkscape_template.svg">
+   sodipodi:docname="icon_mini_checkerboard.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.999998"
-     inkscape:cx="7.1605588"
-     inkscape:cy="10.867932"
+     inkscape:cx="9.707001"
+     inkscape:cy="9.9578367"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="true"
@@ -54,26 +54,6 @@
        type="xygrid"
        id="grid3336"
        empspacing="4" />
-    <sodipodi:guide
-       position="13,15"
-       orientation="0,1"
-       id="guide4135"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1,10"
-       orientation="1,0"
-       id="guide4137"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="9,1"
-       orientation="0,1"
-       id="guide4139"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="15,8"
-       orientation="1,0"
-       id="guide4141"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -90,5 +70,13 @@
   <g
      inkscape:label="icon"
      inkscape:groupmode="layer"
-     id="layer1"/>
+     id="layer1" />
+  <path
+     style="fill:#e0e0e0;fill-opacity:1;stroke-width:1.9993701;stroke-linecap:round;stroke-linejoin:round"
+     d="M 0 0 L 0 8 L 8 8 L 8 0 L 0 0 z M 8 8 L 8 16 L 16 16 L 16 8 L 8 8 z "
+     id="rect4288" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.9993701;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8 0 L 8 8 L 16 8 L 16 0 L 8 0 z M 8 8 L 0 8 L 0 16 L 8 16 L 8 8 z "
+     id="rect4292" />
 </svg>
