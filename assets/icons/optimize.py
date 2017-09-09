@@ -10,7 +10,7 @@ import re
 
 import hashlib
 
-out_path = 'optimized_gen'
+out_path = 'optimized'
 svgs_path = 'svg'
 
 file_names = [f for f in listdir(svgs_path) if isfile(join(svgs_path, f))]
