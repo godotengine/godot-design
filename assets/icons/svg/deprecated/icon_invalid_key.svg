@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
-   viewBox="0 0 64 64"
+   width="8"
+   height="8"
+   viewBox="0 0 8 8"
    id="svg2"
    version="1.1"
    inkscape:version="0.92+devel unknown"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_folder_big.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:docname="icon_folder_big.svg">
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_add_track.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45"
+   sodipodi:docname="icon_invalid_key.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="27.662311"
-     inkscape:cy="41.159533"
+     inkscape:zoom="32.000001"
+     inkscape:cx="6.3598525"
+     inkscape:cy="6.0587147"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -47,10 +47,6 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -73,11 +69,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-988.3622)">
+     transform="translate(0,-1044.3622)">
     <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 13 11.996094 A 5.0039101 5.0039101 0 0 0 7.9960938 17 A 5.0039101 5.0039101 0 0 0 8 17.117188 L 8 20 L 8 28 L 8 50.919922 A 5.0039101 5.0039101 0 0 0 7.9960938 50.996094 A 5.0039101 5.0039101 0 0 0 13 56 L 50.996094 56 A 5.0039101 5.0039101 0 0 0 56 50.996094 L 56 25.080078 A 5.0039101 5.0039101 0 0 0 56.003906 25.003906 A 5.0039101 5.0039101 0 0 0 51 20 L 40 20 L 40 19.960938 A 3.4999914 3.4999914 0 0 1 39.5 20 A 3.4999914 3.4999914 0 0 1 36 16.5 L 36 16.882812 A 5.0039101 5.0039101 0 0 0 31 11.996094 A 5.0039101 5.0039101 0 0 0 30.882812 12 L 13.076172 12 A 5.0039101 5.0039101 0 0 0 13 11.996094 z M 36 16.5 A 3.4999914 3.4999914 0 0 1 36.041016 16 L 36 16 L 36 16.5 z "
-       transform="translate(0,988.3622)"
-       id="path4135" />
+       style="opacity:1;fill:#ff5d5d;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0.46446609,1046.2409 2.12132031,2.1213 -2.12132031,2.1213 1.41421361,1.4142 L 4,1049.7764 l 2.1213203,2.1213 1.4142136,-1.4142 -2.1213203,-2.1213 2.1213203,-2.1213 -1.4142136,-1.4142 L 4,1046.948 l -2.1213203,-2.1213 -1.41421361,1.4142 z"
+       id="rect4156"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

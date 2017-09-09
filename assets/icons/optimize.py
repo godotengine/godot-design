@@ -2,6 +2,7 @@
 # darker variations for white themes.
 #
 
+import os
 from os import listdir, mkdir
 from os.path import isfile, join, dirname, realpath, isdir
 import subprocess
@@ -27,9 +28,10 @@ colors = {
 	"#708cea": "#0843ff", # 2d dark
 	"#a5efac": "#29d739", # control
 
-	"#ff8484": "#ff3333", # error
-	"#84ffb1": "#00db50", # success
-	"#ffd684": "#ffad07", # warning
+	# status colors, should be adapted to the theme color
+	"#ff5d5d": "#ff5d5d", # error
+	"#45ff8b": "#45ff8b", # success
+	"#ffdd65": "#ffdd65", # warning
 
 	# rainbow
 	"#ff7070": "#ff2929", # red
@@ -49,6 +51,8 @@ colors = {
 	"#40a2ff": "#68b6ff", # shape (blue)
 
 	"#84c2ff": "#5caeff", # selection (blue)
+	"#ff8484": "#ff3333", # remove (red)
+	"#84ffb1": "#00db50", # add (green)
 
 	"#ea686c": "#e3383d", # key xform (red)
 }
@@ -60,6 +64,7 @@ exceptions = ["icon_editor_pivot", "icon_editor_handle", "icon_editor_3d_handle"
 
 
 hashes = {}
+new_hashes = {}
 
 
 generate_darks = False
@@ -94,6 +99,7 @@ scour_options = " ".join([
 ])
 
 
+
 current = 0
 for file_name in file_names:
 	current += 1
@@ -102,10 +108,9 @@ for file_name in file_names:
 	with open('{}/{}.svg'.format(svgs_path, name_only), 'r') as svgo:
 		svg_str = svgo.read();
 		m = hashlib.md5(svg_str.encode()).hexdigest()
+		new_hashes[name_only] = m
 		if hashes.get(name_only) == m:
 			continue
-		else:
-			hashes[name_only] = m
 
 	print("%s - %s of %s" % (file_name, current, len(file_names)))
 
@@ -133,7 +138,18 @@ for file_name in file_names:
 				dark_svg.write(svg_str)
 
 
+old_files = set(hashes.keys())
+new_files = set(new_hashes.keys())
+files_to_remove = old_files - new_files
+for rfile in files_to_remove:
+	print("removing deprecated file: %s" % rfile)
+	# remove the actual files
+	if isfile('%s/%s.svg' % (out_path, rfile)):
+		os.remove('%s/%s.svg' % (out_path, rfile))
+	if isfile('%s/%s.svg' % (out_path, rfile)):
+		os.remove('%s/dark/%s.svg' % (out_path, rfile))
+
 
 with open("hashes", "w") as f:
-	for (k,v) in hashes.items():
+	for (k,v) in new_hashes.items():
 		f.write("%s %s\n" % (k, v))

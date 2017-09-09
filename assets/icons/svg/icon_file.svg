@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92+devel unknown"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_dependency_changed_hl.png"
-   inkscape:export-xdpi="45"
-   inkscape:export-ydpi="45"
-   sodipodi:docname="icon_dependency_changed_hl.svg">
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_new.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="icon_file.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="30.700696"
-     inkscape:cx="7.2709928"
-     inkscape:cy="8.1075579"
+     inkscape:zoom="32"
+     inkscape:cx="8.1233216"
+     inkscape:cy="7.8508086"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-8"
      showgrid="true"
      units="px"
      inkscape:snap-bbox="true"
@@ -47,6 +47,9 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     showguides="false"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -60,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,10 +72,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <path
-       style="opacity:1;fill:#ff8484;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 7 3 L 9 3 L 9 10 L 7 10 L 7 3 z M 7 11 L 9 11 L 9 13 L 7 13 L 7 11 z "
-       transform="translate(0,1036.3622)"
-       id="path4137" />
+    <g
+       id="layer1-8"
+       inkscape:label="Layer 1"
+       transform="translate(0,-1.6949463e-5)">
+      <path
+         style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 2,1 V 15 H 14 V 6 H 9 V 1 Z m 8,0 v 4 h 4 z"
+         transform="translate(0,1036.3622)"
+         id="rect4158"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
   </g>
 </svg>
