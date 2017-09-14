@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92+devel unknown"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_camera.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="icon_a_r_v_r_camera.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="6.0411887"
+     inkscape:cy="7.3803479"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 2 1 C 1.4459904 1 1 1.446 1 2 L 1 9 C 1 9.554 1.4459904 10 2 10 L 6 10 L 7 8 C 7.2469892 7.506 7.4477153 7 8 7 C 8.5522847 7 8.7530108 7.506 9 8 L 10 10 L 14 10 C 14.55401 10 15 9.554 15 9 L 15 2 C 15 1.446 14.55401 1 14 1 L 2 1 z M 4 4 A 2 2 0 0 1 6 6 A 2 2 0 0 1 4 8 A 2 2 0 0 1 2 6 A 2 2 0 0 1 4 4 z M 12 4 A 2 2 0 0 1 14 6 A 2 2 0 0 1 12 8 A 2 2 0 0 1 10 6 A 2 2 0 0 1 12 4 z M 4 11 L 4 15 L 6 15 C 6.502003 15.0004 6.9264965 14.628559 6.9921875 14.130859 C 6.9980875 14.083859 7.00072 14.036834 7 13.990234 L 7 11 L 6 11 L 6 14 L 5 14 L 5 11 L 4 11 z M 9 11 L 9 15 L 10 15 L 10 14 L 11 14 L 11 15 L 12 15 L 12 14 C 11.999227 13.8189 11.94927 13.641328 11.855469 13.486328 C 11.939159 13.340128 12 13.1806 12 13 L 12 12 C 12 11.4477 11.551505 10.9707 11 11 L 9 11 z M 10 12 L 11 12 L 11 13 L 10 13 L 10 12 z "
+       id="rect4141" />
+  </g>
+</svg>
