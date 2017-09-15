@@ -14,7 +14,7 @@
    viewBox="0 0 16 12"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_add_track.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
@@ -48,7 +48,8 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -71,54 +72,9 @@
      id="layer1"
      transform="translate(0,-1040.3622)">
     <path
-       id="path4809"
-       d="m 3,1048.3622 a 3,3 0 0 0 3,-3 l -2,0 a 1.0000174,1.0000174 0 0 1 -1,1 l 0,2 z"
        style="fill:#f77070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#f77070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3,1042.3622 a 3,3 0 0 1 3,3 l -2,0 a 1.0000174,1.0000174 0 0 0 -1,-1 l 0,-2 z"
-       id="path4811" />
-    <rect
-       transform="scale(-1,-1)"
-       y="-1050.3619"
-       x="-3"
-       height="7.9999843"
-       width="2"
-       id="rect4813"
-       style="fill:#f77070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       transform="scale(1,-1)"
-       style="fill:#f77070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4815"
-       width="2"
-       height="4.9999828"
-       x="7"
-       y="-1047.3623" />
-    <path
-       style="fill:#f77070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 10,1050.3622 a 3,3 0 0 1 -3,-3 l 2,0 a 1.0000174,1.0000174 0 0 0 1,1 l 0,2 z"
-       id="path4819"
-       inkscape:connector-curvature="0" />
-    <rect
-       y="1044.3622"
-       x="11"
-       height="5.9999843"
-       width="2"
-       id="rect4324"
-       style="fill:#f77070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="fill:#f77070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 13,1044.3622 a 3,3 0 0 1 3,3 l -2,0 a 1.0000174,1.0000174 0 0 0 -1,-1 l 0,-2 z"
-       id="path4342"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#f77070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4344"
-       width="2"
-       height="3.0000174"
-       x="14"
-       y="1047.3622" />
+       d="M 1 2 L 1 10 L 3 10 L 3 8 A 3 3 0 0 0 6 5 A 3 3 0 0 0 3 2 L 1 2 z M 7 2 L 7 7 A 3 3 0 0 0 10 10 L 10 8 A 1.0000174 1.0000174 0 0 1 9 7 L 9 2 L 7 2 z M 3 4 A 1.0000174 1.0000174 0 0 1 4 5 A 1.0000174 1.0000174 0 0 1 3 6 L 3 4 z M 11 4 L 11 10 L 13 10 L 13 6 A 1.0000174 1.0000174 0 0 1 14 7 L 14 10 L 16 10 L 16 7 A 3 3 0 0 0 13 4 L 11 4 z "
+       transform="translate(0,1040.3622)"
+       id="path4809" />
   </g>
 </svg>

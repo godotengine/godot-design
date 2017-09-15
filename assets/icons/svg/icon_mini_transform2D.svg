@@ -14,7 +14,7 @@
    viewBox="0 0 16 12"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_add_track.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="6.4108823"
-     inkscape:cy="5.363647"
+     inkscape:zoom="32.000001"
+     inkscape:cx="7.8598309"
+     inkscape:cy="5.3330278"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -42,13 +42,14 @@
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -61,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,48 +71,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1040.3622)">
-    <rect
-       y="1048.3622"
-       x="5"
-       height="2"
-       width="5"
-       id="rect4763"
-       style="fill:#ddf4aa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       sodipodi:open="true"
-       d="m 7.0000001,1050.3622 a 2,2 0 0 1 -1.7320509,-1 2,2 0 0 1 0,-2 2,2 0 0 1 1.7320508,-1"
-       sodipodi:end="4.712389"
-       sodipodi:start="1.5707963"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="1048.3622"
-       sodipodi:cx="7"
-       sodipodi:type="arc"
-       id="path4765"
-       style="fill:#ddf4aa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4767"
-       d="m 7,1042.3622 v 2 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 v 2 a 3,3 0 0 0 2.597656,-1.5 3,3 0 0 0 0,-3 A 3,3 0 0 0 7,1042.3622 Z"
-       style="fill:#ddf4aa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
        style="fill:#c4ec69;fill-opacity:1;stroke:none;stroke-width:1.85164022;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect823"
-       width="6"
-       height="2"
-       x="0"
-       y="1042.3622" />
-    <rect
-       y="1043.3622"
-       x="2"
-       height="7.0000172"
-       width="2"
-       id="rect825"
-       style="fill:#c4ec69;fill-opacity:1;stroke:none;stroke-width:2.00000238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="fill:#c4ec69;fill-opacity:1;stroke:none;stroke-width:2.1380899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 10 2 L 10 10 L 12 10 A 4 4 0 0 0 15.464844 8 A 4 4 0 0 0 15.464844 4 A 4 4 0 0 0 12 2 L 10 2 z M 12 4 A 2.0000174 2.0000174 0 0 1 13.732422 5 A 2.0000174 2.0000174 0 0 1 13.732422 7 A 2.0000174 2.0000174 0 0 1 12 8 L 12 4 z "
+       d="M 0 2 L 0 4 L 2 4 L 2 10 L 4 10 L 4 4 L 6 4 L 6 2 L 0 2 z M 7 2 L 7 4 A 1 1 0 0 1 8 5 A 1 1 0 0 1 7 6 A 2 2 0 0 0 5.2675781 7 A 2 2 0 0 0 5.0019531 8 L 5 8 L 5 8.046875 L 5 10 L 7 10 L 10 10 L 12 10 A 4 4 0 0 0 15.464844 8 A 4 4 0 0 0 15.464844 4 A 4 4 0 0 0 12 2 L 10 2 L 10 8 L 7 8 A 3 3 0 0 0 9.5976562 6.5 A 3 3 0 0 0 9.5976562 3.5 A 3 3 0 0 0 7 2 z M 12 4 A 2.0000174 2.0000174 0 0 1 13.732422 5 A 2.0000174 2.0000174 0 0 1 13.732422 7 A 2.0000174 2.0000174 0 0 1 12 8 L 12 4 z "
        transform="translate(0,1040.3622)"
-       id="rect827" />
+       id="rect823" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.39215687;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 7 2 L 7 4 A 1 1 0 0 1 8 5 A 1 1 0 0 1 7 6 A 2 2 0 0 0 5.2675781 7 A 2 2 0 0 0 5.0019531 8 L 5 8 L 5 8.046875 L 5 10 L 7 10 L 10 10 L 10 8 L 7 8 A 3 3 0 0 0 9.5976562 6.5 A 3 3 0 0 0 9.5976562 3.5 A 3 3 0 0 0 7 2 z "
+       id="rect4763"
+       transform="translate(0,1040.3622)" />
   </g>
 </svg>
