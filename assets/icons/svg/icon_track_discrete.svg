@@ -14,7 +14,7 @@
    viewBox="0 0 16 8"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_bone.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -51,7 +51,8 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -64,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,23 +74,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1044.3622)">
-    <circle
+    <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4230"
-       cx="2"
-       cy="1050.3622"
-       r="1" />
-    <circle
-       r="1"
-       cy="1048.3622"
-       cx="8"
-       id="circle4232"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4234"
-       cx="14"
-       cy="1046.3622"
-       r="1" />
+       d="M 14 1 A 1 1 0 0 0 13 2 A 1 1 0 0 0 14 3 A 1 1 0 0 0 15 2 A 1 1 0 0 0 14 1 z M 8 3 A 1 1 0 0 0 7 4 A 1 1 0 0 0 8 5 A 1 1 0 0 0 9 4 A 1 1 0 0 0 8 3 z M 2 5 A 1 1 0 0 0 1 6 A 1 1 0 0 0 2 7 A 1 1 0 0 0 3 6 A 1 1 0 0 0 2 5 z "
+       transform="translate(0,1044.3622)"
+       id="path4230" />
   </g>
 </svg>

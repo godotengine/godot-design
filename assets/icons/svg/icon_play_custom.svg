@@ -14,11 +14,11 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_packed_scene.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_play_custom_scene.svg">
+   sodipodi:docname="icon_play_custom.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -49,7 +49,8 @@
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -62,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,15 +74,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1 7 L 1 13 A 2 2 0 0 0 3 15 L 15 15 L 15 7 L 1 7 z M 4 8 L 8 8 L 8 9 L 12 9 L 12 14 L 8 14 L 4 14 L 4 9 L 4 8 z "
+       d="M 14.564453 2 L 12.320312 2.328125 L 13.138672 4.2285156 L 14.853516 3.9785156 L 14.564453 2 z M 10.341797 2.6152344 L 8.3632812 2.9042969 L 9.1816406 4.8066406 L 11.160156 4.5175781 L 10.341797 2.6152344 z M 6.3828125 3.1933594 L 4.4042969 3.4824219 L 5.2226562 5.3847656 L 7.2011719 5.0957031 L 6.3828125 3.1933594 z M 2.4257812 3.7714844 L 0.7109375 4.0214844 L 1 6 L 3.2441406 5.671875 L 2.4257812 3.7714844 z M 1 7 L 1 13 A 2 2 0 0 0 3 15 L 15 15 L 15 7 L 1 7 z M 4 8 L 8 8 L 8 9 L 12 9 L 12 14 L 8 14 L 4 14 L 4 9 L 4 8 z "
        transform="translate(0,1036.3622)"
        id="rect4136" />
-    <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 0.7112932,1040.3831 1,1042.3622 l 2.2438279,-0.3273 -0.8182578,-1.9018 -1.7142769,0.25 z m 3.6933293,-0.5387 0.8182578,1.9018 1.9790524,-0.2887 -0.8182579,-1.9018 -1.9790523,0.2887 z m 3.9581047,-0.5775 0.8182579,1.9018 1.9790519,-0.2887 -0.818257,-1.9018 -1.9790528,0.2887 z m 3.9581048,-0.5774 0.818258,1.9018 1.714277,-0.25 -0.288707,-1.9791 -2.243828,0.3273 z"
-       id="rect4138"
-       inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-6.7823301"
-       inkscape:transform-center-y="-2" />
   </g>
 </svg>

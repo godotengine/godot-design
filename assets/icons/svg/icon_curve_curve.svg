@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_curve_curve.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -51,7 +51,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="false"
      inkscape:snap-smooth-nodes="false"
-     inkscape:snap-midpoints="false">
+     inkscape:snap-midpoints="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -65,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,33 +76,20 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#f5f5f5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215687"
        d="m 5,1049.3622 c -2,-9 -1,-10 8,-8"
        id="path4147"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <circle
-       style="opacity:1;fill:#84c2ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4149"
-       cx="5"
-       cy="1041.3622"
-       r="2" />
-    <circle
-       style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4143"
-       cx="5"
-       cy="1049.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1041.3622"
-       cx="13"
-       id="circle4145"
-       style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="fill:#84c2ff;fill-rule:evenodd;stroke:#84c2ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 1,1045.3622 8,-8"
-       id="path4263"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:#84c2ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 8.46875 0.47070312 L 5.78125 3.1582031 L 5.7792969 3.1582031 A 2 2 0 0 0 5 3 A 2 2 0 0 0 3 5 A 2 2 0 0 0 3.1601562 5.7792969 L 0.46875 8.4707031 L 1.53125 9.53125 L 4.2207031 6.8417969 A 2 2 0 0 0 5 7 A 2 2 0 0 0 7 5 A 2 2 0 0 0 6.8398438 4.2226562 L 9.53125 1.53125 L 8.46875 0.47070312 z "
+       id="circle4149"
+       transform="translate(0,1036.3622)" />
+    <path
+       style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 13 3 A 2 2 0 0 0 11 5 A 2 2 0 0 0 13 7 A 2 2 0 0 0 15 5 A 2 2 0 0 0 13 3 z M 5 11 A 2 2 0 0 0 3 13 A 2 2 0 0 0 5 15 A 2 2 0 0 0 7 13 A 2 2 0 0 0 5 11 z "
+       transform="translate(0,1036.3622)"
+       id="path4143" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node_2d.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -50,7 +50,8 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -64,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,26 +76,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="fill:#fc9c9c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 1.9289328,1043.2912 9,1050.3622 l 0.7071066,-3.5355 -4.2426399,-4.2426 z"
-       id="path4160"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#fc9c9c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 9,1037.6343 -0.7071061,0.7071 0,1.4142 -2.1213204,2.1214 4.2426405,4.2426 2.12132,-2.1213 1.414214,0 0.707107,-0.7071 L 9,1037.6343 Z"
-       id="path4162"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="rect4173"
-       width="2"
-       height="2.0000174"
-       x="743.08221"
-       y="737.35425"
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
-    <path
-       style="fill:#fc9c9c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2.6360396,1048.2409 -0.7071068,2.1213 2.1213204,-0.7071 -1.4142136,-1.4142 z"
-       id="path4175"
-       inkscape:connector-curvature="0" />
+       d="M 9 1.2714844 L 8.2929688 1.9785156 L 8.2929688 3.3925781 L 6.171875 5.515625 L 10.414062 9.7578125 L 12.535156 7.6367188 L 13.949219 7.6367188 L 14.65625 6.9296875 L 9 1.2714844 z M 5.4648438 6.2226562 L 1.9296875 6.9296875 L 9 14 L 9.7070312 10.464844 L 5.4648438 6.2226562 z M 4.0507812 10.464844 L 2.6367188 11.878906 L 1.9296875 14 L 4.0507812 13.292969 L 5.4648438 11.878906 L 4.0507812 10.464844 z "
+       transform="translate(0,1036.3622)"
+       id="path4160" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_curve_edit.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -51,7 +51,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="false"
      inkscape:snap-smooth-nodes="false"
-     inkscape:snap-midpoints="false">
+     inkscape:snap-midpoints="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -75,34 +76,20 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#f5f5f5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215687"
        d="m 5,1049.3622 c -2,-9 -1,-10 8,-8"
        id="path4147"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <circle
-       style="opacity:1;fill:#84c2ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4149"
-       cx="5"
-       cy="1041.3622"
-       r="2" />
-    <circle
-       style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4143"
-       cx="5"
-       cy="1049.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1041.3622"
-       cx="13"
-       id="circle4145"
-       style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="opacity:1;fill:#84c2ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 16,1047.6532 -8,-3.291 3.290998,8 0.947104,-2.8201 1.8836,1.8835 0.941801,-0.9418 -1.8836,-1.8835 z"
-       id="rect4163"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       style="opacity:1;fill:#84c2ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5 3 A 2 2 0 0 0 3 5 A 2 2 0 0 0 5 7 A 2 2 0 0 0 7 5 A 2 2 0 0 0 5 3 z M 8 8 L 11.291016 16 L 12.238281 13.179688 L 14.121094 15.0625 L 15.064453 14.121094 L 13.179688 12.238281 L 16 11.291016 L 8 8 z "
+       transform="translate(0,1036.3622)"
+       id="circle4149" />
+    <path
+       style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 13 3 A 2 2 0 0 0 11 5 A 2 2 0 0 0 13 7 A 2 2 0 0 0 15 5 A 2 2 0 0 0 13 3 z M 5 11 A 2 2 0 0 0 3 13 A 2 2 0 0 0 5 15 A 2 2 0 0 0 7 13 A 2 2 0 0 0 5 11 z "
+       transform="translate(0,1036.3622)"
+       id="path4143" />
   </g>
 </svg>

@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,29 +101,10 @@
        d="m 8,1040.3622 a 7,7 0 0 0 -7,7 7,7 0 0 0 0.6855469,3 H 14.316406 a 7,7 0 0 0 0.683594,-3 7,7 0 0 0 -7,-7 z"
        id="path4292"
        inkscape:connector-curvature="0" />
-    <rect
+    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.3254902"
-       id="rect4305"
-       width="3"
-       height="2"
-       x="2"
-       y="1047.3622"
-       ry="1" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.3254902"
-       id="rect4307"
-       width="4"
-       height="2"
-       x="7"
-       y="1045.3622"
-       ry="1" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.3254902"
-       id="rect4309"
-       width="4"
-       height="2"
-       x="9"
-       y="1044.3622"
-       ry="1" />
+       d="M 10 7 C 9.446 7 9 7.446 9 8 L 8 8 C 7.446 8 7 8.446 7 9 C 7 9.554 7.446 10 8 10 L 10 10 C 10.554 10 11 9.554 11 9 L 12 9 C 12.554 9 13 8.554 13 8 C 13 7.446 12.554 7 12 7 L 10 7 z M 3 10 C 2.446 10 2 10.446 2 11 C 2 11.554 2.446 12 3 12 L 4 12 C 4.554 12 5 11.554 5 11 C 5 10.446 4.554 10 4 10 L 3 10 z "
+       transform="translate(0,1037.3622)"
+       id="rect4305" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_collision_shape_2d.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="-3.626492"
-     inkscape:cy="10.256723"
+     inkscape:zoom="32"
+     inkscape:cx="4.1209279"
+     inkscape:cy="8.9029674"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,7 +51,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true">
+     inkscape:snap-midpoints="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -74,16 +75,9 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#68b6ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 8,1038.3622 0,12"
-       id="path4203"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0"
-       id="path4224"
-       d="m 5,1047.3622 3,3 3,-3"
-       style="fill:none;fill-rule:evenodd;stroke:#68b6ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#68b6ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;opacity:1"
+       d="M 8 1 A 1 1 0 0 0 7 2 L 7 11.585938 L 5.7070312 10.292969 A 1 1 0 0 0 4.9863281 10.001953 A 1 1 0 0 0 4.2929688 10.292969 A 1 1 0 0 0 4.2929688 11.707031 L 7.2929688 14.707031 A 1.0001 1.0001 0 0 0 7.296875 14.710938 A 1 1 0 0 0 7.3476562 14.755859 A 1.0001 1.0001 0 0 0 7.3789062 14.783203 A 1 1 0 0 0 7.4277344 14.818359 A 1.0001 1.0001 0 0 0 7.4511719 14.833984 A 1 1 0 0 0 7.5273438 14.878906 A 1.0001 1.0001 0 0 0 7.5332031 14.882812 A 1 1 0 0 0 7.546875 14.890625 A 1.0001 1.0001 0 0 0 7.625 14.925781 A 1 1 0 0 0 7.6992188 14.951172 A 1.0001 1.0001 0 0 0 7.7246094 14.960938 A 1 1 0 0 0 7.7636719 14.970703 A 1.0001 1.0001 0 0 0 7.8320312 14.984375 A 1.0001 1.0001 0 0 0 7.9296875 14.996094 A 1.0001 1.0001 0 0 0 7.9375 14.996094 A 1 1 0 0 0 8 15 A 1 1 0 0 0 8.015625 14.998047 A 1.0001 1.0001 0 0 0 8.0996094 14.994141 A 1 1 0 0 0 8.1152344 14.992188 A 1.0001 1.0001 0 0 0 8.1992188 14.978516 A 1.0001 1.0001 0 0 0 8.2519531 14.964844 A 1 1 0 0 0 8.3105469 14.949219 A 1.0001 1.0001 0 0 0 8.3886719 14.919922 A 1 1 0 0 0 8.4023438 14.914062 A 1.0001 1.0001 0 0 0 8.4785156 14.876953 A 1 1 0 0 0 8.4921875 14.869141 A 1.0001 1.0001 0 0 0 8.5644531 14.824219 A 1 1 0 0 0 8.5761719 14.816406 A 1.0001 1.0001 0 0 0 8.6445312 14.763672 A 1 1 0 0 0 8.65625 14.753906 A 1.0001 1.0001 0 0 0 8.7070312 14.707031 L 8.7167969 14.695312 L 11.707031 11.707031 A 1 1 0 0 0 11.707031 10.292969 A 1 1 0 0 0 10.292969 10.292969 L 9 11.585938 L 9 2 A 1 1 0 0 0 8 1 z "
+       transform="translate(0,1036.3622)"
+       id="path4277" />
   </g>
 </svg>

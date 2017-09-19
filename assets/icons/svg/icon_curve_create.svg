@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_curve_create.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="5.3157064"
-     inkscape:cy="11.760735"
+     inkscape:cx="5.089285"
+     inkscape:cy="8.5145249"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,7 +51,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="false"
      inkscape:snap-smooth-nodes="false"
-     inkscape:snap-midpoints="false">
+     inkscape:snap-midpoints="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -75,43 +76,20 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#e0e0e0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#f5f5f5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215687"
        d="m 5,1049.3622 c -2,-9 -1,-10 8,-8"
        id="path4147"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <circle
+    <path
        style="opacity:1;fill:#84ffb1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4149"
-       cx="5"
-       cy="1041.3622"
-       r="2" />
-    <circle
+       d="M 5 3 A 2 2 0 0 0 3 5 A 2 2 0 0 0 5 7 A 2 2 0 0 0 7 5 A 2 2 0 0 0 5 3 z M 11 8 L 11 11 L 8 11 L 8 13 L 11 13 L 11 16 L 13 16 L 13 13 L 16 13 L 16 11 L 13 11 L 13 8 L 11 8 z "
+       transform="translate(0,1036.3622)"
+       id="circle4149" />
+    <path
        style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4143"
-       cx="5"
-       cy="1049.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1041.3622"
-       cx="13"
-       id="circle4145"
-       style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#84ffb1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4139"
-       width="8"
-       height="2"
-       x="8"
-       y="1047.3622" />
-    <rect
-       y="-13"
-       x="1044.3622"
-       height="2"
-       width="8.0000172"
-       id="rect4141"
-       style="opacity:1;fill:#84ffb1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0,1,-1,0,0,0)" />
+       d="M 13 3 A 2 2 0 0 0 11 5 A 2 2 0 0 0 13 7 A 2 2 0 0 0 15 5 A 2 2 0 0 0 13 3 z M 5 11 A 2 2 0 0 0 3 13 A 2 2 0 0 0 5 15 A 2 2 0 0 0 7 13 A 2 2 0 0 0 5 11 z "
+       transform="translate(0,1036.3622)"
+       id="path4143" />
   </g>
 </svg>

@@ -68,12 +68,10 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1036.3623)">
+     id="layer1">
     <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:0.78431374;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 4 2 C 2.8954305 2 2 2.8954305 2 4 L 2 12 C 2 13.104569 2.8954305 14 4 14 L 12 14 C 13.104569 14 14 13.104569 14 12 L 14 4 C 14 2.8954305 13.104569 2 12 2 L 4 2 z M 11.292969 4.2929688 L 12.707031 5.7070312 L 6 12.414062 L 3.2929688 9.7070312 L 4.7070312 8.2929688 L 6 9.5859375 L 11.292969 4.2929688 z "
-       transform="translate(0,1036.3623)"
        id="circle4178" />
   </g>
 </svg>

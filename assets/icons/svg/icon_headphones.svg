@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_listener.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -50,7 +50,8 @@
      showguides="true"
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -64,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,45 +76,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1,1046.3622 0,3 2,0 0,2 2,0 0,-5 -4,0 z"
-       id="rect4168"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 11,1046.3622 0,5 2,0 0,-2 2,0 0,-3 -4,0 z"
-       id="rect4170"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 8,1037.3622 a 7,7 0 0 0 -7,7 l 2,0 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 l 2,0 a 7,7 0 0 0 -7,-7 z"
-       id="path4185"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4189"
-       width="2"
-       height="2"
-       x="1"
-       y="1044.3622" />
-    <rect
-       y="1044.3622"
-       x="13"
-       height="2"
-       width="2"
-       id="rect4191"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4194"
-       cx="3"
-       cy="1049.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1049.3622"
-       cx="-13"
-       id="circle4198"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="scale(-1,1)" />
+       d="M 8 1 A 7 7 0 0 0 1 8 L 1 10 L 1 13 A 2 2 0 0 0 3 15 L 5 15 L 5 10 L 3 10 L 3 8 A 5 5 0 0 1 8 3 A 5 5 0 0 1 13 8 L 13 10 L 11 10 L 11 13 L 11 15 L 13 15 A 2 2 0 0 0 15 13 L 15 10 L 15 8 A 7 7 0 0 0 8 1 z "
+       transform="translate(0,1036.3622)"
+       id="rect4168" />
   </g>
 </svg>

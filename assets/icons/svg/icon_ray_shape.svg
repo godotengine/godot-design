@@ -13,7 +13,7 @@
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_box_shape.png"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    version="1.1"
    id="svg2"
    viewBox="0 0 16 16"
@@ -40,15 +40,16 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="10.045124"
-     inkscape:cx="1.7215967"
-     inkscape:zoom="22.627416"
+     inkscape:cy="8.3185097"
+     inkscape:cx="5.4459165"
+     inkscape:zoom="31.999999"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:document-rotation="0">
     <inkscape:grid
        id="grid3336"
        type="xygrid"
@@ -64,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,33 +76,13 @@
      inkscape:label="Layer 1">
     <path
        style="fill:#a2d2ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 8,1051.3622 -2,-2 0,-7 2,2 z"
+       d="M 8 1 L 2 6 L 6 8.6660156 L 6 13 L 8 15 L 8 10 L 8 8 L 8 1 z "
        id="path4161"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       transform="translate(0,1036.3622)" />
     <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path4165"
-       d="m 8,1047.8622 -2,-1.5 0,-4 2,2 z"
-       style="fill:#2998ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       style="fill:#a2d2ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 8,1037.3622 -6,5 6,4 z"
-       id="path4157"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path4163"
-       d="m 8,1051.3622 2,-2 0,-7 -2,2 z"
-       style="fill:#2998ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4159"
-       d="m 8,1037.3622 6,5 -6,4 z"
        style="fill:#2998ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       sodipodi:nodetypes="cccc" />
+       d="M 8 1 L 8 8 L 8 10 L 6 8.6660156 L 6 10 L 8 11.5 L 8 15 L 10 13 L 10 8.6660156 L 14 6 L 8 1 z "
+       transform="translate(0,1036.3622)"
+       id="path4165" />
   </g>
 </svg>

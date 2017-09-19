@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_list_select.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -59,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,14 +76,8 @@
        style="stroke:#ffffff;stroke-width:6.28565216;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:0.99607843;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1 1 L 1 15 L 9.2578125 15 L 8.4355469 13 L 3 13 L 3 11 L 7.6113281 11 L 6.7890625 9 L 3 9 L 3 7 L 6.8867188 7 A 1.50015 1.50015 0 0 1 7.984375 6.5019531 L 7.984375 6.5 A 1.50015 1.50015 0 0 1 8.5703125 6.6113281 L 9.515625 7 L 10 7 L 10 7.1992188 L 12 8.0214844 L 12 1 L 1 1 z M 3 3 L 10 3 L 10 5 L 3 5 L 3 3 z M 10.755859 10.755859 L 11.279297 12.029297 A 1.50015 1.50015 0 0 1 11.759766 11.759766 A 1.50015 1.50015 0 0 1 12 11.320312 L 12 11.269531 L 10.755859 10.755859 z "
+       d="M 1 1 L 1 15 L 9.2578125 15 L 8.4355469 13 L 3 13 L 3 11 L 7.6113281 11 L 6.7890625 9 L 3 9 L 3 7 L 6.8867188 7 A 1.50015 1.50015 0 0 1 7.984375 6.5019531 L 7.984375 6.5 A 1.50015 1.50015 0 0 1 8.5703125 6.6113281 L 9.515625 7 L 10 7 L 10 7.1992188 L 12 8.0214844 L 12 1 L 1 1 z M 3 3 L 10 3 L 10 5 L 3 5 L 3 3 z M 8 8 L 11.291016 16 L 12.238281 13.179688 L 14.121094 15.0625 L 15.064453 14.121094 L 13.179688 12.238281 L 16 11.291016 L 8 8 z "
        transform="translate(0,1036.3622)"
        id="rect4138" />
-    <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 16,1047.6532 -8,-3.291 3.290998,8 0.947104,-2.8201 1.8836,1.8835 0.941801,-0.9418 -1.8836,-1.8835 z"
-       id="rect4163"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>

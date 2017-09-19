@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_button.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
      inkscape:cx="7.4706473"
-     inkscape:cy="10.780886"
+     inkscape:cy="10.28989"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -60,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,13 +72,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1 1 L 1 5 L 15 5 L 15 1 L 1 1 z M 6 2 L 10 2 L 8 4 L 6 2 z "
+       d="M 1 1 L 1 5 L 15 5 L 15 1 L 1 1 z M 6 2 L 10 2 L 8 4 L 6 2 z M 2 6 A 1 1 0 0 0 1 7 L 1 14 A 1 1 0 0 0 2 15 L 14 15 A 1 1 0 0 0 15 14 L 15 7 A 1 1 0 0 0 14 6 L 2 6 z M 3 8 L 13 8 L 13 10 L 3 10 L 3 8 z M 3 11 L 13 11 L 13 13 L 3 13 L 3 11 z "
        transform="translate(0,1036.3622)"
        id="rect4156" />
-    <path
-       style="opacity:1;fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2 6 A 1 1 0 0 0 1 7 L 1 14 A 1 1 0 0 0 2 15 L 14 15 A 1 1 0 0 0 15 14 L 15 7 A 1 1 0 0 0 14 6 L 2 6 z M 3 8 L 13 8 L 13 10 L 3 10 L 3 8 z M 3 11 L 13 11 L 13 13 L 3 13 L 3 11 z "
-       transform="translate(0,1036.3622)"
-       id="rect4161" />
   </g>
 </svg>

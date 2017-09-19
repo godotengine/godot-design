@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_arrow_left.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -59,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,37 +69,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <rect
+    <path
        style="fill:#ff8484;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4352"
-       width="6"
-       height="2.0000174"
-       x="5"
-       y="1043.3622" />
-    <g
-       id="layer1-2"
-       inkscape:label="Layer 1"
-       transform="matrix(-0.71428934,0,0,0.88888708,2.4999495,121.81991)"
-       style="fill:#ff8484;fill-opacity:1">
-      <path
-         inkscape:transform-center-x="1.1667546"
-         sodipodi:type="star"
-         style="fill:#ff8484;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-opacity:1"
-         id="path4435"
-         sodipodi:sides="3"
-         sodipodi:cx="5"
-         sodipodi:cy="-1038.3622"
-         sodipodi:r1="3.6055512"
-         sodipodi:r2="1.8027756"
-         sodipodi:arg1="0.52359878"
-         sodipodi:arg2="1.5707963"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 8.122499,-1036.5594 -3.122499,0 -3.122499,0 1.5612495,-2.7042 L 5,-1041.9677 l 1.5612495,2.7041 z"
-         inkscape:transform-center-y="-9.6789057e-05"
-         transform="matrix(0,1.4411577,1.2942939,0,1331.1125,1030.6564)" />
-    </g>
+       d="M 10 4 L 10 7 L 5 7 L 5 9 L 10 9 L 10 12 L 12.5 10 L 15 8 L 12.5 6 L 10 4 z "
+       transform="translate(0,1036.3622)"
+       id="rect4352" />
     <circle
        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4137"

@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_collision_shape.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -51,7 +51,8 @@
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true">
+     inkscape:snap-midpoints="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -64,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,17 +74,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <circle
+    <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4219"
-       cx="5.9999828"
-       cy="1046.3622"
-       r="4.9999828" />
-    <circle
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4221"
-       cx="12"
-       cy="1039.3622"
-       r="1" />
+       d="M 12 2 A 1 1 0 0 0 11 3 A 1 1 0 0 0 12 4 A 1 1 0 0 0 13 3 A 1 1 0 0 0 12 2 z M 6 5 A 4.9999828 4.9999828 0 0 0 1 10 A 4.9999828 4.9999828 0 0 0 6 15 A 4.9999828 4.9999828 0 0 0 11 10 A 4.9999828 4.9999828 0 0 0 6 5 z "
+       transform="translate(0,1036.3622)"
+       id="path4219" />
   </g>
 </svg>

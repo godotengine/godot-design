@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,29 +103,10 @@
        id="rect4285"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-    <rect
+    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.3254902"
-       id="rect4273"
-       width="3"
-       height="2"
-       x="2"
-       y="1046.3622"
-       ry="1" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.3254902"
-       id="rect4275"
-       width="4"
-       height="2"
-       x="8"
-       y="1044.3622"
-       ry="1" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.3254902"
-       id="rect4277"
-       width="4"
-       height="2"
-       x="10"
-       y="1043.3622"
-       ry="1" />
+       d="M 11 6 C 10.446 6 10 6.446 10 7 L 9 7 C 8.446 7 8 7.446 8 8 C 8 8.554 8.446 9 9 9 L 11 9 C 11.554 9 12 8.554 12 8 L 13 8 C 13.554 8 14 7.554 14 7 C 14 6.446 13.554 6 13 6 L 11 6 z M 3 9 C 2.446 9 2 9.446 2 10 C 2 10.554 2.446 11 3 11 L 4 11 C 4.554 11 5 10.554 5 10 C 5 9.446 4.554 9 4 9 L 3 9 z "
+       transform="translate(0,1037.3622)"
+       id="rect4273" />
   </g>
 </svg>

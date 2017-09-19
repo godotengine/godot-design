@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node_2d.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -60,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,35 +72,8 @@
      transform="translate(0,-1036.3622)">
     <path
        style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       d="M 6 2 A 4 4 0 0 0 2 6 A 4 4 0 0 0 5 9.8691406 L 5 9 L 6 9 L 6 10 L 7 10 L 7 9 L 8 9 L 9 9 L 9 10 L 10 10 L 10 9 L 11 9 L 11 9.8671875 A 4 4 0 0 0 14 6 A 4 4 0 0 0 10 2 L 6 2 z M 5 5 A 1.0000174 1.0000174 0 0 1 6 6 A 1.0000174 1.0000174 0 0 1 5 7 A 1.0000174 1.0000174 0 0 1 4 6 A 1.0000174 1.0000174 0 0 1 5 5 z M 11 5 A 1.0000174 1.0000174 0 0 1 12 6 A 1.0000174 1.0000174 0 0 1 11 7 A 1.0000174 1.0000174 0 0 1 10 6 A 1.0000174 1.0000174 0 0 1 11 5 z M 7 7 L 9 7 L 9 8 L 7 8 L 7 7 z "
+       d="M 6 2 A 4 4 0 0 0 2 6 A 4 4 0 0 0 4 9.453125 L 4 13 A 2 2 0 0 0 5 14.732422 A 2 2 0 0 0 6 14.998047 L 6 15 L 10 15 L 10 14.998047 A 2 2 0 0 0 11 14.732422 A 2 2 0 0 0 12 13 L 12 9.453125 A 4 4 0 0 0 14 6 A 4 4 0 0 0 10 2 L 6 2 z M 5 5 A 1.0000174 1.0000174 0 0 1 6 6 A 1.0000174 1.0000174 0 0 1 5 7 A 1.0000174 1.0000174 0 0 1 4 6 A 1.0000174 1.0000174 0 0 1 5 5 z M 11 5 A 1.0000174 1.0000174 0 0 1 12 6 A 1.0000174 1.0000174 0 0 1 11 7 A 1.0000174 1.0000174 0 0 1 10 6 A 1.0000174 1.0000174 0 0 1 11 5 z M 7 7 L 9 7 L 9 8 L 7 8 L 7 7 z M 5 9 L 6 9 L 6 10 L 7 10 L 7 9 L 8 9 L 9 9 L 9 10 L 10 10 L 10 9 L 11 9 L 11 9.8671875 L 11 13 L 10 13 L 10 12 L 9 12 L 9 13 L 8 13 L 7 13 L 7 12 L 6 12 L 6 13 L 5 13 L 5 9.8691406 L 5 9 z "
        transform="translate(0,1036.3622)"
        id="path4204" />
-    <path
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       d="M 4 9 L 4 13 L 5 13 L 5 9 L 4 9 z M 11 9 L 11 13 L 12 13 L 12 9 L 11 9 z M 6 12 L 6 13 L 6 15 L 10 15 L 10 13 L 10 12 L 9 12 L 9 13 L 7 13 L 7 12 L 6 12 z "
-       transform="translate(0,1036.3622)"
-       id="rect4222" />
-    <path
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="path4238"
-       sodipodi:type="arc"
-       sodipodi:cx="6"
-       sodipodi:cy="1049.3622"
-       sodipodi:rx="2"
-       sodipodi:ry="2"
-       sodipodi:start="0"
-       sodipodi:end="3.1415927"
-       d="m 8,1049.3622 a 2,2 0 0 1 -1,1.732 2,2 0 0 1 -2.0000001,0 A 2,2 0 0 1 4,1049.3622 l 2,0 z" />
-    <path
-       d="m 12,1049.3622 a 2,2 0 0 1 -1,1.732 2,2 0 0 1 -2.0000001,0 A 2,2 0 0 1 8,1049.3622 l 2,0 z"
-       sodipodi:end="3.1415927"
-       sodipodi:start="0"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="1049.3622"
-       sodipodi:cx="10"
-       sodipodi:type="arc"
-       id="path4248"
-       style="opacity:1;fill:#fc9c9c;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
   </g>
 </svg>
