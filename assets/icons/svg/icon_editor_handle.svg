@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8"
-   height="8"
-   viewBox="0 0 8 8"
+   width="10"
+   height="10"
+   viewBox="0 0 10 10"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_dependency_changed_hl.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="43.417341"
-     inkscape:cx="2.7092551"
-     inkscape:cy="4.8390476"
+     inkscape:cx="2.9548699"
+     inkscape:cy="4.8877893"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -67,20 +68,27 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1044.3622)">
+     transform="translate(0,-1042.3622)">
     <ellipse
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="4.9999895"
+       rx="5"
+       cy="1047.3622"
+       cx="5"
+       id="ellipse4267"
+       style="opacity:1;fill:#000000;fill-opacity:0.29411765;stroke:none;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999356;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4137"
-       cx="4"
-       cy="1048.3622"
-       rx="4"
-       ry="3.9999914" />
+       cx="5"
+       cy="1047.3622"
+       rx="3.9999912"
+       ry="3.9999826" />
     <ellipse
-       cy="1048.3622"
-       cx="4"
+       cy="1047.3622"
+       cx="5"
        id="circle4156"
-       style="opacity:1;fill:#ff8484;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="2.8571527"
-       ry="2.8571465" />
+       style="opacity:1;fill:#ff8484;fill-opacity:1;stroke:none;stroke-width:3.14997745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="2.9999888"
+       ry="2.9999826" />
   </g>
 </svg>

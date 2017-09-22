@@ -69,6 +69,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
+    <circle
+       style="fill:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.98823529;fill-opacity:0.39215687"
+       id="path4267"
+       cx="8"
+       cy="1044.3622"
+       r="8" />
     <path
        style="fill:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 4 7 L 12 7 L 12 9 L 4 9 L 4 7 z "

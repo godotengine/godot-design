@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="76.62854"
-     inkscape:cy="36.932947"
+     inkscape:cx="69.053375"
+     inkscape:cy="56.563928"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -70,6 +70,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-924.3622)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.29411765;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 52,4 C 45.42119,4 40,9.4211898 40,16 V 28 42.625 C 27.737386,49.907232 20.021824,62.375352 20,75.994141 L 19.994141,80 H 48.572266 C 50.371712,86.863236 56.598729,92 64,92 71.401271,92 77.628288,86.863236 79.427734,80 H 108.00391 L 108,75.996094 C 107.98474,62.371334 100.26774,49.896959 88,42.611328 V 24 16 C 88,9.4211898 82.57881,4 76,4 Z M 40.310547,82.015625 c -1.536048,-0.107376 -3.141906,0.236762 -4.558594,1.054687 l -10.392578,6 C 21.580787,91.251882 20.247671,96.220638 22.429688,100 c 2.18157,3.77859 7.150328,5.11169 10.929687,2.92969 L 43.751953,96.929688 C 47.531559,94.747531 48.860686,89.7776 46.679688,86 45.316833,83.639467 42.873953,82.19482 40.310547,82.015625 Z m 47.378906,0 C 85.126047,82.19482 82.683167,83.639467 81.320312,86 c -2.180998,3.7776 -0.851871,8.747531 2.927735,10.929688 l 10.392578,6.000002 c 3.77936,2.182 8.748115,0.8489 10.929685,-2.92969 2.18202,-3.779361 0.84891,-8.748122 -2.92969,-10.929688 l -10.392573,-6 C 90.831359,82.252387 89.225501,81.908249 87.689453,82.015625 Z M 64,96 c -4.362811,0 -8,3.637189 -8,8 v 12 c 0,4.36281 3.637189,8 8,8 4.362811,0 8,-3.63719 8,-8 v -12 c 0,-4.362811 -3.637189,-8 -8,-8 z"
+       id="path4272"
+       transform="translate(0,924.3622)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscccccscccccssssccsccssssccsccssssssss" />
     <path
        style="fill:#f7f5cf;stroke-width:2.10818505;stroke-linecap:round;stroke-linejoin:round"
        d="M 52 8 C 47.56799 8 44 11.56799 44 16 L 44 28 L 44 44.875 A 40 35.999981 0 0 0 24 76 L 52 76 A 12 12 0 0 0 64 88 A 12 12 0 0 0 76 76 L 104 76 A 40 35.999981 0 0 0 84 44.859375 L 84 24 L 84 16 C 84 11.56799 80.43201 8 76 8 L 52 8 z M 40.03125 86.005859 C 39.263323 85.952178 38.47162 86.119656 37.751953 86.535156 L 27.359375 92.535156 C 25.440263 93.643156 24.786531 96.080888 25.894531 98 C 27.002531 99.919112 29.440263 100.57284 31.359375 99.464844 L 41.751953 93.464844 C 43.671065 92.356844 44.322844 89.919112 43.214844 88 C 42.522344 86.800555 41.311128 86.095329 40.03125 86.005859 z M 87.96875 86.005859 C 86.688872 86.095329 85.477656 86.800555 84.785156 88 C 83.677156 89.919112 84.328935 92.356844 86.248047 93.464844 L 96.640625 99.464844 C 98.559737 100.57284 100.99747 99.919112 102.10547 98 C 103.21347 96.080888 102.55974 93.643156 100.64062 92.535156 L 90.248047 86.535156 C 89.52838 86.119656 88.736677 85.952178 87.96875 86.005859 z M 64 100 C 61.784 100 60 101.784 60 104 L 60 116 C 60 118.216 61.784 120 64 120 C 66.216 120 68 118.216 68 116 L 68 104 C 68 101.784 66.216 100 64 100 z "

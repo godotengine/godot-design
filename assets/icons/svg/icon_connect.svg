@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32.000001"
-     inkscape:cx="13.864856"
-     inkscape:cy="7.2235346"
+     inkscape:cx="12.61436"
+     inkscape:cy="9.1721935"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -69,37 +69,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <circle
+    <path
        style="fill:#e0e0e0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       id="path4266"
-       cx="4"
-       cy="1048.3622"
-       r="2" />
-    <path
-       id="circle4268"
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc"
-       sodipodi:cx="4"
-       sodipodi:cy="1048.3622"
-       sodipodi:rx="5"
-       sodipodi:ry="5"
-       sodipodi:start="4.712389"
-       sodipodi:end="0"
-       sodipodi:arc-type="arc"
-       d="M 4.0000001,1043.3622 A 5,5 0 0 1 9,1048.3622"
-       sodipodi:open="true" />
-    <path
-       id="circle4270"
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc"
-       sodipodi:cx="4"
-       sodipodi:cy="1048.3622"
-       sodipodi:rx="9"
-       sodipodi:ry="9"
-       sodipodi:start="4.712389"
-       sodipodi:end="0"
-       sodipodi:open="true"
-       sodipodi:arc-type="arc"
-       d="m 4.0000002,1039.3622 a 9,9 0 0 1 8.9999998,9" />
+       d="M 4 2 A 1 1 0 0 0 3 3 A 1 1 0 0 0 4 4 C 8.4301226 4 12 7.5699 12 12 A 1 1 0 0 0 13 13 A 1 1 0 0 0 14 12 C 14 6.489 9.5110028 2 4 2 z M 4 6 A 1 1 0 0 0 3 7 A 1 1 0 0 0 4 8 C 6.2209836 8 8 9.779 8 12 A 1 1 0 0 0 9 13 A 1 1 0 0 0 10 12 C 10 8.6982 7.3018638 6 4 6 z M 4 10 A 2 2 0 0 0 2 12 A 2 2 0 0 0 4 14 A 2 2 0 0 0 6 12 A 2 2 0 0 0 4 10 z "
+       transform="translate(0,1036.3622)"
+       id="path4266" />
   </g>
 </svg>

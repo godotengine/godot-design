@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92+devel unknown"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_unlock.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -47,7 +47,8 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-others="true">
+     inkscape:snap-others="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -60,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,22 +77,8 @@
        style="stroke:#ffffff;stroke-width:6.28565216;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2 8 L 2 15 L 14 15 L 14 8 L 2 8 z M 7 10 L 9 10 L 9 13 L 7 13 L 7 10 z "
-       id="rect4139"
-       transform="translate(0,1036.3622)" />
-    <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 8,1 C 7.1226197,1.001545 6.2610925,1.233935 5.5019531,1.6738281 l 1,1.7324219 C 6.9570181,3.1417636 7.4736593,3.0016575 8,3 c 1.6568542,0 3,1.3431458 3,3 l 2,0 C 13,3.2385763 10.761424,1 8,1 Z"
+       d="M 8 1 C 7.1226197 1.001545 6.2610925 1.233935 5.5019531 1.6738281 L 6.5019531 3.40625 C 6.9570181 3.1417636 7.4736593 3.0016575 8 3 C 9.6568542 3 11 4.3431458 11 6 L 11 8 L 2 8 L 2 15 L 14 15 L 14 8 L 13 8 L 13 6 C 13 3.2385763 10.761424 1 8 1 z M 7 10 L 9 10 L 9 13 L 7 13 L 7 10 z "
        transform="translate(0,1036.3622)"
-       id="path4141"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <rect
-       y="1042.3622"
-       x="11"
-       height="2"
-       width="2"
-       id="rect4147"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       id="rect4139" />
   </g>
 </svg>
