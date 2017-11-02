@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_camera.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="6.0411887"
-     inkscape:cy="7.3803479"
+     inkscape:cx="9.6241221"
+     inkscape:cy="9.0453255"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -48,7 +48,11 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -72,7 +76,7 @@
      id="layer1">
     <path
        style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2 1 C 1.4459904 1 1 1.446 1 2 L 1 9 C 1 9.554 1.4459904 10 2 10 L 6 10 L 7 8 C 7.2469892 7.506 7.4477153 7 8 7 C 8.5522847 7 8.7530108 7.506 9 8 L 10 10 L 14 10 C 14.55401 10 15 9.554 15 9 L 15 2 C 15 1.446 14.55401 1 14 1 L 2 1 z M 4 4 A 2 2 0 0 1 6 6 A 2 2 0 0 1 4 8 A 2 2 0 0 1 2 6 A 2 2 0 0 1 4 4 z M 12 4 A 2 2 0 0 1 14 6 A 2 2 0 0 1 12 8 A 2 2 0 0 1 10 6 A 2 2 0 0 1 12 4 z M 4 11 L 4 15 L 6 15 C 6.502003 15.0004 6.9264965 14.628559 6.9921875 14.130859 C 6.9980875 14.083859 7.00072 14.036834 7 13.990234 L 7 11 L 6 11 L 6 14 L 5 14 L 5 11 L 4 11 z M 9 11 L 9 15 L 10 15 L 10 14 L 11 14 L 11 15 L 12 15 L 12 14 C 11.999227 13.8189 11.94927 13.641328 11.855469 13.486328 C 11.939159 13.340128 12 13.1806 12 13 L 12 12 C 12 11.4477 11.551505 10.9707 11 11 L 9 11 z M 10 12 L 11 12 L 11 13 L 10 13 L 10 12 z "
+       d="M 9.5 0 A 3.0000174 3.0000174 0 0 0 6.5117188 2.7773438 A 2.9999828 2.9999828 0 0 0 4.5 2 A 2.9999828 2.9999828 0 0 0 1.5 5 A 2.9999828 2.9999828 0 0 0 3.5 7.8242188 L 3.5 10 C 3.5 10.554 3.9459904 11 4.5 11 L 10.5 11 C 11.05401 11 11.5 10.554 11.5 10 L 11.5 9 L 14.5 11 L 14.5 5 L 11.5 7 L 11.5 5.2304688 A 3.0000174 3.0000174 0 0 0 12.5 3 A 3.0000174 3.0000174 0 0 0 9.5 0 z M 4 12 L 4 13 C 4 13.552285 4.4477153 14 5 14 C 4.4477153 14 4 14.447715 4 15 L 4 16 L 5 16 L 5 15 L 6 15 L 6 16 L 7 16 L 7 15 C 7 14.447715 6.5522847 14 6 14 C 6.5522847 14 7 13.552285 7 13 L 7 12 L 6 12 L 6 13 L 5 13 L 5 12 L 4 12 z M 9 12 L 9 13 L 9 16 L 10 16 L 10 15 L 11 15 L 11 16 L 12 16 L 12 15 C 11.999166 14.824214 11.952009 14.651753 11.863281 14.5 C 11.952009 14.348247 11.999166 14.175786 12 14 L 12 13 C 12 12.447715 11.552285 12 11 12 L 10 12 L 9 12 z M 10 13 L 11 13 L 11 14 L 10 14 L 10 13 z "
        id="rect4141" />
   </g>
 </svg>

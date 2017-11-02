@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_color_picker.png"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_camera.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_color_picker.svg">
+   sodipodi:docname="icon_a_r_v_r_origin.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254832"
-     inkscape:cx="6.4658584"
-     inkscape:cy="9.8644396"
+     inkscape:zoom="32"
+     inkscape:cx="8.158193"
+     inkscape:cy="8.1311197"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,10 +46,13 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid3336" />
+       id="grid3336"
+       empspacing="4" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -68,8 +71,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8 1 C 6.892 1 6 1.892 6 3 L 6 5 L 5 5 L 5 7 L 6 7 L 6 12 A 2 2 0 0 0 7 13.728516 L 7 15 L 9 15 L 9 13.730469 A 2 2 0 0 0 10 12 L 10 7 L 11 7 L 11 5 L 10 5 L 10 3 C 10 1.892 9.108 1 8 1 z M 7 7 L 9 7 L 9 12 A 1.0000174 1.0000174 0 0 1 8 13 A 1.0000174 1.0000174 0 0 1 7 12 L 7 7 z "
-       id="rect814" />
+       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 7 1 L 7 4 L 9 4 L 9 1 L 7 1 z M 3 5 L 3 7 L 6 7 L 6 5 L 3 5 z M 8 5 C 7.4477153 5 7 5.4477153 7 6 C 7 6.5522847 7.4477153 7 8 7 C 8.5522847 7 9 6.5522847 9 6 C 9 5.4477153 8.5522847 5 8 5 z M 10 5 L 10 7 L 13 7 L 13 5 L 10 5 z M 7 8 L 7 11 L 9 11 L 9 8 L 7 8 z M 4 12 L 4 13 C 4 13.552285 4.447715 14 5 14 C 4.447715 14 4 14.447715 4 15 L 4 16 L 5 16 L 5 15 L 6 15 L 6 16 L 7 16 L 7 15 C 7 14.447715 6.552285 14 6 14 C 6.552285 14 7 13.552285 7 13 L 7 12 L 6 12 L 6 13 L 5 13 L 5 12 L 4 12 z M 9 12 L 9 13 L 9 16 L 10 16 L 10 15 L 11 15 L 11 16 L 12 16 L 12 15 C 11.999166 14.824214 11.952009 14.651753 11.863281 14.5 C 11.952009 14.348247 11.999166 14.175786 12 14 L 12 13 C 12 12.447715 11.552285 12 11 12 L 10 12 L 9 12 z M 10 13 L 11 13 L 11 14 L 10 14 L 10 13 z "
+       id="rect4141" />
   </g>
 </svg>

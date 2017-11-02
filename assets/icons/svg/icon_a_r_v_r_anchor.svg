@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_color_picker.png"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_camera.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_color_picker.svg">
+   sodipodi:docname="icon_a_r_v_r_anchor.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254832"
-     inkscape:cx="6.4658584"
-     inkscape:cy="9.8644396"
+     inkscape:zoom="32"
+     inkscape:cx="8.2475331"
+     inkscape:cy="10.131278"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,10 +46,13 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid3336" />
+       id="grid3336"
+       empspacing="4" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -68,8 +71,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8 1 C 6.892 1 6 1.892 6 3 L 6 5 L 5 5 L 5 7 L 6 7 L 6 12 A 2 2 0 0 0 7 13.728516 L 7 15 L 9 15 L 9 13.730469 A 2 2 0 0 0 10 12 L 10 7 L 11 7 L 11 5 L 10 5 L 10 3 C 10 1.892 9.108 1 8 1 z M 7 7 L 9 7 L 9 12 A 1.0000174 1.0000174 0 0 1 8 13 A 1.0000174 1.0000174 0 0 1 7 12 L 7 7 z "
-       id="rect814" />
+       style="opacity:1;fill:#fc9c9c;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 7,1 V 3 H 5 V 5 H 7 V 8.2656245 L 4.4472656,6.9882808 C 4.2972183,6.913028 4.1306419,6.8767573 3.9628906,6.882812 3.5975296,6.8964595 3.2687414,7.1084119 3.1054688,7.4355464 2.8583812,7.9295774 3.0586459,8.530371 3.5527344,8.7773432 L 8,11 12.447266,8.7773432 C 12.941354,8.5303706 13.141618,7.9295772 12.894531,7.4355464 12.647559,6.9414578 12.046765,6.7411933 11.552734,6.9882808 L 9,8.2656245 V 5 h 2 V 3 H 9 V 1 Z M 4,12 v 1 c 0,0.552285 0.4477153,1 1,1 -0.5522847,0 -1,0.447715 -1,1 v 1 h 1 v -1 h 1 v 1 H 7 V 15 C 7,14.447715 6.5522847,14 6,14 6.5522847,14 7,13.552285 7,13 V 12 H 6 v 1 H 5 v -1 z m 5,0 v 1 3 h 1 v -1 h 1 v 1 h 1 V 15 C 11.999166,14.824214 11.952009,14.651753 11.863281,14.5 11.952009,14.348247 11.999166,14.175786 12,14 v -1 c 0,-0.552285 -0.447715,-1 -1,-1 h -1 z m 1,1 h 1 v 1 h -1 z"
+       id="rect4141"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccscsccccccscscccccccccccccccccssccccccc" />
   </g>
 </svg>

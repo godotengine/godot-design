@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_color_picker.png"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_center_container.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_color_picker.svg">
+   sodipodi:docname="icon_control_layout.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254832"
-     inkscape:cx="6.4658584"
-     inkscape:cy="9.8644396"
+     inkscape:zoom="45.254834"
+     inkscape:cx="9.5923125"
+     inkscape:cy="7.5194003"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -68,8 +69,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8 1 C 6.892 1 6 1.892 6 3 L 6 5 L 5 5 L 5 7 L 6 7 L 6 12 A 2 2 0 0 0 7 13.728516 L 7 15 L 9 15 L 9 13.730469 A 2 2 0 0 0 10 12 L 10 7 L 11 7 L 11 5 L 10 5 L 10 3 C 10 1.892 9.108 1 8 1 z M 7 7 L 9 7 L 9 12 A 1.0000174 1.0000174 0 0 1 8 13 A 1.0000174 1.0000174 0 0 1 7 12 L 7 7 z "
-       id="rect814" />
+       style="opacity:1;fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 1,1 V 15 H 15 V 1 Z M 3,3 H 6 V 6 H 3 Z m 5,0 h 5 V 6 H 8 Z M 3,8 h 3 v 5 H 3 Z m 5,0 h 5 v 5 H 8 Z"
+       id="rect4140"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
   </g>
 </svg>

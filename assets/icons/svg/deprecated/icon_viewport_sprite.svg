@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_sprite.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="6.9421446"
-     inkscape:cy="7.9109534"
+     inkscape:zoom="32"
+     inkscape:cx="8.6588997"
+     inkscape:cy="8.2373446"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -70,26 +70,10 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1036.3622)">
-    <rect
-       style="opacity:1;fill:#fefeff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       id="rect4175"
-       width="1"
-       height="1"
-       x="20"
-       y="1042.3622" />
-    <rect
-       y="1042.3622"
-       x="29"
-       height="1"
-       width="1"
-       id="rect4177"
-       style="opacity:1;fill:#fefeff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
+     id="layer1">
     <path
        style="opacity:1;fill:#a5b7f3;fill-opacity:0.98823529;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       d="M 3 2 C 2.4695977 2.0000801 1.9609485 2.2108464 1.5859375 2.5859375 C 1.2108464 2.9609485 1.0000801 3.4695977 1 4 L 1 12 C 1.0000803 12.530402 1.2108465 13.039051 1.5859375 13.414062 C 1.9609484 13.789154 2.4695976 13.99992 3 14 L 13 14 C 14.104569 14 15 13.104569 15 12 L 15 4 C 15 2.8954305 14.104569 2 13 2 L 3 2 z M 3 3 L 13 3 C 13.552281 3.0000096 13.99999 3.4477192 14 4 L 14 12 C 13.99999 12.552281 13.552281 12.99999 13 13 L 3 13 C 2.4477192 12.99999 2.0000096 12.552281 2 12 L 2 4 C 2.0000096 3.4477192 2.4477192 3.0000096 3 3 z M 4 6 L 4 8 L 6 8 L 6 6 L 4 6 z M 10 6 L 10 8 L 12 8 L 12 6 L 10 6 z M 4 9 L 4 10 L 12 10 L 12 9 L 4 9 z "
-       transform="translate(0,1036.3622)"
+       d="M 3 2 C 2.4695977 2.0000801 1.9609485 2.2108464 1.5859375 2.5859375 C 1.2108464 2.9609485 1.0000801 3.4695977 1 4 L 1 12 C 1.0000803 12.530402 1.2108465 13.039051 1.5859375 13.414062 C 1.9609484 13.789155 2.4695976 13.99992 3 14 L 13 14 C 14.104569 14 15 13.104569 15 12 L 15 4 C 15 2.8954305 14.104569 2 13 2 L 3 2 z M 3 3 L 13 3 C 13.552281 3.0000096 13.99999 3.4477192 14 4 L 14 12 C 13.99999 12.552281 13.552281 12.99999 13 13 L 3 13 C 2.4477192 12.99999 2.0000096 12.552281 2 12 L 2 4 C 2.0000096 3.4477192 2.4477192 3.0000096 3 3 z M 4 6 C 3.446 6 3 6.446 3 7 L 3 8 C 3 8.554 3.446 9 4 9 C 4.554 9 5 8.554 5 8 L 5 7 C 5 6.446 4.554 6 4 6 z M 12 6 C 11.446 6 11 6.446 11 7 L 11 8 C 11 8.554 11.446 9 12 9 C 12.554 9 13 8.554 13 8 L 13 7 C 13 6.446 12.554 6 12 6 z M 4 10 L 4 11 L 12 11 L 12 10 L 4 10 z "
        id="rect4179" />
   </g>
 </svg>

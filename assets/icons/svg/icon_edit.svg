@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_edit.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000002"
-     inkscape:cx="10.361255"
-     inkscape:cy="7.0279565"
+     inkscape:zoom="22.627418"
+     inkscape:cx="8.7505662"
+     inkscape:cy="11.151509"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,10 +69,9 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1.7071068,1047.8266 1,1051.3622 l 3.5355339,-0.7071 7.7781741,-7.7782 -2.828427,-2.8284 z m 9.1923882,-9.1924 2.828427,2.8285 1.414214,-1.4142 -2.828428,-2.8285 z"
-       id="rect4135"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.63299322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 7 1 C 6.446 1 6 1.446 6 2 L 6 4 L 10 4 L 10 2 C 10 1.446 9.554 1 9 1 L 7 1 z M 6 5 L 6 12 L 8 15 L 10 12 L 10 5 L 6 5 z M 7 6 L 8 6 L 8 11 L 7 11 L 7 6 z "
+       transform="translate(0,1036.3622)"
+       id="rect814" />
   </g>
 </svg>

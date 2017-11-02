@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_edit_key.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000002"
-     inkscape:cx="7.2649878"
-     inkscape:cy="7.6615896"
+     inkscape:zoom="32.000001"
+     inkscape:cx="6.8991462"
+     inkscape:cy="9.106201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,17 +69,9 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1.7071068,1047.8266 1,1051.3622 l 3.5355339,-0.7071 7.7781741,-7.7782 -2.828427,-2.8284 z m 9.1923882,-9.1924 2.828427,2.8285 1.414214,-1.4142 -2.828428,-2.8285 z"
-       id="rect4135"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
-    <ellipse
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4135"
-       cx="3.5"
-       cy="1039.8622"
-       rx="2.5"
-       ry="2.5000086" />
+       style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.76284212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12 1 C 11.446 1 11 1.446 11 2 L 11 4 L 15 4 L 15 2 C 15 1.446 14.554 1 14 1 L 12 1 z M 5 4 C 4.8049996 4 4.6103569 4.07519 4.4609375 4.2246094 L 1.2246094 7.4609375 C 0.92577053 7.7597763 0.92577052 8.2402237 1.2246094 8.5390625 L 4.4609375 11.775391 C 4.7597763 12.074229 5.2402237 12.074229 5.5390625 11.775391 L 8.7753906 8.5390625 C 9.0742294 8.2402237 9.0742294 7.7597763 8.7753906 7.4609375 L 5.5390625 4.2246094 C 5.3896431 4.07519 5.1950004 4 5 4 z M 11 5 L 11 12 L 13 15 L 15 12 L 15 5 L 11 5 z M 12 6 L 13 6 L 13 11 L 12 11 L 12 6 z "
+       transform="translate(0,1036.3622)"
+       id="rect814" />
   </g>
 </svg>

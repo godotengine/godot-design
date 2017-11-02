@@ -14,8 +14,8 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_color_pick.png"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_color_picker.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:docname="icon_color_pick.svg">
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="4.443644"
-     inkscape:cy="9.1543192"
+     inkscape:cx="7.0130883"
+     inkscape:cy="10.714214"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -69,9 +69,9 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#e0e0e0;fill-opacity:0.99607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
-       d="M 13.050781 0.97851562 A 2 2 0 0 0 11.607422 1.5644531 L 10.193359 2.9785156 L 8.7773438 1.5644531 L 7.3632812 2.9785156 L 8.7773438 4.3925781 L 1.7070312 11.464844 L 1.3535156 13.232422 L 1 15 L 2.7675781 14.646484 L 4.5351562 14.292969 L 11.607422 7.2226562 L 13.021484 8.6367188 L 14.435547 7.2226562 L 13.021484 5.8066406 L 14.435547 4.3925781 A 2 2 0 0 0 14.435547 1.5644531 A 2 2 0 0 0 13.050781 0.97851562 z M 9.484375 5.0996094 L 10.900391 6.515625 L 3.828125 13.585938 L 3.1210938 12.878906 L 2.4140625 12.171875 L 9.484375 5.0996094 z "
+       style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8 1 C 6.892 1 6 1.892 6 3 L 6 5 L 5 5 L 5 7 L 6 7 L 6 12 A 2 2 0 0 0 7 13.728516 L 7 15 L 9 15 L 9 13.730469 A 2 2 0 0 0 10 12 L 10 7 L 11 7 L 11 5 L 10 5 L 10 3 C 10 1.892 9.108 1 8 1 z M 7 7 L 9 7 L 9 12 A 1.0000174 1.0000174 0 0 1 8 13 A 1.0000174 1.0000174 0 0 1 7 12 L 7 7 z "
        transform="translate(0,1036.3622)"
-       id="rect4139" />
+       id="rect814" />
   </g>
 </svg>

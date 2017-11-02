@@ -10,15 +10,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   height="4"
+   viewBox="0 0 16 3.9999998"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_add_track.png"
-   inkscape:export-xdpi="45"
-   inkscape:export-ydpi="45"
-   sodipodi:docname="icon_connection_and_groups.svg">
+   inkscape:version="0.92+devel unknown"
+   sodipodi:docname="icon_GUI_v_tick.svg"
+   inkscape:export-filename="/home/djrm/Projects/godot/scene/resources/default_theme/unchecked.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,28 +28,29 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="-3.3764632"
-     inkscape:cy="12.578963"
+     inkscape:zoom="32"
+     inkscape:cx="8.0715643"
+     inkscape:cy="6.9303465"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid3336" />
+       id="grid4136"
+       empspacing="4" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -59,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,11 +68,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1036.3622)">
-    <path
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 2 0 L 2 1 L 2 6 L 2 7 L 14 7 L 14 6 L 14 0 L 3 0 L 2 0 z M 3 1 L 13 1 L 13 6 L 3 6 L 3 1 z M 5.5 2 A 1.5 1.5000032 0 0 0 4 3.5 A 1.5 1.5000032 0 0 0 5.5 5 A 1.5 1.5000032 0 0 0 7 3.5 A 1.5 1.5000032 0 0 0 5.5 2 z M 10.5 2 A 1.5 1.5000032 0 0 0 9 3.5 A 1.5 1.5000032 0 0 0 10.5 5 A 1.5 1.5000032 0 0 0 12 3.5 A 1.5 1.5000032 0 0 0 10.5 2 z M 10 9 A 2 1.9999913 0 0 0 8 11 L 8 12 L 2 12 L 2 13 L 8 13 L 8 14 A 2 2 0 0 0 10 16 L 12 16 L 12 15 L 14 15 L 14 14 L 12 14 L 12 11 L 14 11 L 14 10 L 12 10 L 12 9 L 10 9 z "
-       transform="translate(0,1036.3622)"
-       id="rect4155" />
+     transform="translate(0,-12)">
+    <circle
+       style="fill:#ffffff;fill-opacity:0.39215686;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="path4266"
+       cx="2"
+       cy="14"
+       r="1" />
   </g>
 </svg>
