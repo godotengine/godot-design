@@ -1105,8 +1105,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="3025.9945"
-     inkscape:cy="556.79413"
+     inkscape:cx="3343.6452"
+     inkscape:cy="448.69173"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1161,7 +1161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2578,23 +2578,7 @@
            width="582.90698"
            id="rect2601" /></flowRegion><flowPara
          style="font-size:42.66666794px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara2605">DEMOS</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,683.15363,-60.042338)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#d8dbe4;fill-opacity:1;stroke:none"
-       id="flowRoot2615"
-       xml:space="preserve"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:justify;text-anchor:start;fill:#d8dbe4;fill-opacity:1"
-         id="flowRegion2611"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:justify;text-anchor:start;fill:#d8dbe4;fill-opacity:1"
-           y="1180.4092"
-           x="478.00418"
-           height="335.75439"
-           width="544.75641"
-           id="rect2609" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333336px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:justify;text-anchor:start;fill:#d8dbe4;fill-opacity:1"
-         id="flowPara2613">You can find previous releases on our mirrors: [Mirror 1] | [Mirror 2]</flowPara></flowRoot>    <path
+         id="flowPara2605">DEMOS</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path2617"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0492813"
@@ -3012,7 +2996,7 @@
            width="691.55042"
            id="rect1963" /></flowRegion><flowPara
          id="flowPara1967"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#241c49;fill-opacity:1">INSTRUCTIONS</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#241c49;fill-opacity:1">REQUIREMENTS (version 3.0)</flowPara></flowRoot>    <rect
        ry="0"
        y="85.962463"
        x="810.15918"
@@ -3186,5 +3170,63 @@
            width="691.55042"
            id="rect2955" /></flowRegion><flowPara
          id="flowPara2959"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#241c49;fill-opacity:1">Server</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#241c49;fill-opacity:1">Server</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       ry="0"
+       y="240.73982"
+       x="810.15918"
+       height="21.196049"
+       width="154.87653"
+       id="rect1457"
+       style="opacity:1;fill:#ededed;fill-opacity:1;stroke:none;stroke-width:0.4461973;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.67058824" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,687.90374,-70.11238)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#657093;fill-opacity:1;stroke:none;"
+       id="flowRoot2615"
+       xml:space="preserve"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:justify;text-anchor:start;fill:#657093;fill-opacity:1;"
+         id="flowRegion2611"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:justify;text-anchor:start;fill:#657093;fill-opacity:1;"
+           y="1180.4092"
+           x="478.00418"
+           height="335.75439"
+           width="544.75641"
+           id="rect2609" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:justify;text-anchor:start;fill:#657093;fill-opacity:1;"
+         id="flowPara2613">You can find previous releases on our mirrors: [Mirror 1] | [Mirror 2]</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       id="flowRoot1468"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#241c49;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,1498.6719,21.819015)"><flowRegion
+         id="flowRegion1464"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#241c49;fill-opacity:1"><rect
+           id="rect1462"
+           width="691.55042"
+           height="220.61731"
+           x="-2580.9397"
+           y="559.5694"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#241c49;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#241c49;fill-opacity:1"
+         id="flowPara1466">INSTRUCTIONS</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       id="flowRoot1476"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#241c49;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,1498.6719,5.0630303)"><flowRegion
+         id="flowRegion1472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#241c49;fill-opacity:1"><rect
+           id="rect1470"
+           width="691.55042"
+           height="220.61731"
+           x="-2580.9397"
+           y="559.5694"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#241c49;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#241c49;fill-opacity:1"
+         id="flowPara1474">OpenGL ES 3.0 compatible hardware</flowPara></flowRoot>  </g>
 </svg>
