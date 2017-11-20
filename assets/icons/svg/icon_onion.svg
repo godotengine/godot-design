@@ -14,11 +14,11 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92+devel unknown"
-   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_area.png"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_animation.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="icon_area_2d.svg">
+   sodipodi:docname="icon_onion.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-1.5916523"
-     inkscape:cy="11.154772"
+     inkscape:zoom="32"
+     inkscape:cx="9.9728282"
+     inkscape:cy="7.7646034"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -47,7 +47,10 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:document-rotation="0">
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true">
     <inkscape:grid
        type="xygrid"
        id="grid3336" />
@@ -60,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,8 +72,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="opacity:1;fill:#a5b7f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1 1 L 1 3 L 1 5 L 3 5 L 3 3 L 5 3 L 5 1 L 1 1 z M 11 1 L 11 3 L 13 3 L 13 5 L 15 5 L 15 1 L 11 1 z M 4 4 L 4 6 L 4 10 L 4 12 L 12 12 L 12 10 L 12 4 L 4 4 z M 6 6 L 10 6 L 10 10 L 6 10 L 6 6 z M 1 11 L 1 13 L 1 15 L 3 15 L 5 15 L 5 13 L 3 13 L 3 11 L 1 11 z M 13 11 L 13 13 L 11 13 L 11 15 L 15 15 L 15 13 L 15 11 L 13 11 z "
-       id="rect4148" />
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 8 1 C 6 3 1 5 1 9 C 1 13 4 15 8 15 C 1 12 1.4004554 7.2970474 8 2 C 5.7018896 5.9516443 2.504871 10.919686 8 15 C 12.869152 10.760919 10.773287 6.8185331 9 3 C 14.585529 7.7039872 14.399523 11.648803 8 15 C 12 15 15 13 15 9 C 15 5 10 3 8 1 z "
+       id="path833" />
   </g>
 </svg>
