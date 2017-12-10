@@ -18,7 +18,7 @@
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_dependency_changed_hl.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
-   sodipodi:docname="icon_editor_handle.svg">
+   sodipodi:docname="icon_editor_handle_add.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="21.70867"
-     inkscape:cx="11.897141"
-     inkscape:cy="4.2742439"
+     inkscape:zoom="43.41734"
+     inkscape:cx="5.7278985"
+     inkscape:cy="6.4310562"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:snap-bbox="true"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,16 +75,15 @@
        style="opacity:1;fill:#000000;fill-opacity:0.29411765;stroke:none;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="5" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999356;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#474747;fill-opacity:1;stroke:none;stroke-width:2.99999356;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4137"
        cx="5"
        cy="5"
        r="4" />
-    <circle
-       cy="5"
-       cx="5"
-       id="circle4156"
-       style="opacity:1;fill:#ff8484;fill-opacity:1;stroke:none;stroke-width:3.14997745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="3" />
+    <path
+       style="fill:#84ffb1"
+       inkscape:connector-curvature="0"
+       d="M 4,2 V 4 H 2 V 6 H 4 V 8 H 6 V 6 H 8 V 4 H 6 V 2 Z"
+       id="path842" />
   </g>
 </svg>
