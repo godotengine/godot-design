@@ -10,7 +10,8 @@ Folders are organized as follows:
 - archives: anything decrecated should go to this folder
 - communication: everything needed for communication such like flyers, poster, banners, etc...
 - concepts: here to store design ideas, fanarts, etc...
+- engine: everything included into Godot's software (especially icons)
+- godette: designs for the personified Godot character
 - goodies: t-shirts, mugs, stickers, business cards, etc...
-- software-design: everything included into Godot's sofware (especially icons)
 - wallpapers
 - websites: everything related to Godot's several websites or community (Main website, Patreon, Facebook page, etc...)
