@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node_2d.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254833"
-     inkscape:cx="7.3867117"
-     inkscape:cy="10.060119"
+     inkscape:zoom="16"
+     inkscape:cx="6.837673"
+     inkscape:cy="5.9486469"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -72,19 +72,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <rect
-       style="opacity:1;fill:#ffd684;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4154"
-       width="7"
-       height="7.0710845"
-       x="152.19386"
-       y="1047.8939"
-       transform="matrix(1,0,-0.14142068,0.98994959,0,0)" />
     <path
-       style="opacity:1;fill:#ffd684;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 6,1043.3622 8,0 -9,8 z"
-       id="rect4156"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       style="opacity:1;fill:#ffd684;fill-opacity:1;stroke:none;stroke-width:1.98992419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 4 1 L 3 8 L 5.875 8 L 5 15 L 14 7 L 10.142578 7 L 11 1 L 4 1 z "
+       transform="translate(0,1036.3622)"
+       id="rect4154" />
   </g>
 </svg>

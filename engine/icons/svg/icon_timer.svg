@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_sprite.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="4.3214346"
-     inkscape:cy="13.122944"
+     inkscape:zoom="22.627417"
+     inkscape:cx="3.6748693"
+     inkscape:cy="7.7504785"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -42,8 +42,8 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -71,33 +71,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <rect
+    <path
        style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.85164022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect818"
-       width="12"
-       height="2"
-       x="2"
-       y="1037.3622"
-       ry="1" />
-    <rect
-       ry="1"
-       y="1049.3622"
-       x="2"
-       height="2"
-       width="12"
-       id="rect820"
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.85164022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3,1050.3622 h 10 l -3,-6 H 6 Z"
-       id="path838"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3,1038.3622 h 10 c 0,2 -3,4 -4,6 1,2 4,4 4,6 H 3 c 0,-2 3,-4 4,-6 -1,-2 -4,-4 -4,-6 z"
-       id="path840"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       d="M 3 1 A 1.0001 1.0001 0 0 0 2.6132812 1.078125 A 1.0001 1.0001 0 0 0 2.6113281 1.078125 C 2.6090519 1.0790795 2.6077363 1.0810604 2.6054688 1.0820312 A 1.0001 1.0001 0 0 0 2.2949219 1.2910156 C 2.2936362 1.2922943 2.2922943 1.2936362 2.2910156 1.2949219 A 1.0001 1.0001 0 0 0 2.0859375 1.5996094 C 2.082946 1.6064596 2.0790136 1.6122104 2.0761719 1.6191406 A 1.0001 1.0001 0 0 0 2 2 C 2 3.5 2.966967 4.6246563 3.8730469 5.6601562 C 4.6338538 6.5296563 5.2891419 7.3027 5.7480469 8 C 5.2891583 8.6974 4.6339157 9.4722969 3.8730469 10.341797 C 2.966967 11.377297 2 12.5 2 14 A 1.0001 1.0001 0 0 0 2.078125 14.388672 C 2.078125 14.388672 2.078125 14.390625 2.078125 14.390625 C 2.0790542 14.392829 2.0810867 14.394288 2.0820312 14.396484 A 1.0001 1.0001 0 0 0 2.2910156 14.703125 C 2.2920341 14.704152 2.293899 14.707961 2.2949219 14.708984 A 1.0001 1.0001 0 0 0 2.5957031 14.912109 C 2.6050213 14.916228 2.61358 14.919988 2.6230469 14.923828 A 1.0001 1.0001 0 0 0 3 15 L 13 15 A 1.0001 1.0001 0 0 0 13.375 14.925781 C 13.385174 14.921681 13.394294 14.91653 13.404297 14.912109 A 1.0001 1.0001 0 0 0 13.697266 14.712891 C 13.702052 14.708212 13.706246 14.703992 13.710938 14.699219 A 1.0001 1.0001 0 0 0 13.912109 14.404297 C 13.916228 14.394979 13.919988 14.38642 13.923828 14.376953 A 1.0001 1.0001 0 0 0 14 14 C 14 12.5 13.033033 11.377297 12.126953 10.341797 C 11.366084 9.4722969 10.710842 8.6974 10.251953 8 C 10.710858 7.3027 11.366146 6.5296563 12.126953 5.6601562 C 13.033033 4.6246563 14 3.5 14 2 A 1.0001 1.0001 0 0 0 13.921875 1.609375 A 1.0001 1.0001 0 0 0 13.707031 1.2929688 A 1.0001 1.0001 0 0 0 13.396484 1.0820312 A 1.0001 1.0001 0 0 0 13.384766 1.0761719 A 1.0001 1.0001 0 0 0 13 1 L 3 1 z M 4.5878906 3 L 11.412109 3 C 11.174307 3.4408 11.10661 3.7891969 10.623047 4.3417969 C 9.7791266 5.3062969 8.7247257 6.3141344 8.1054688 7.5527344 A 1.0001 1.0001 0 0 0 8 8 A 1.0001 1.0001 0 0 0 7.8945312 7.5527344 C 7.2752744 6.3141344 6.2208733 5.3062969 5.3769531 4.3417969 C 4.8933902 3.7891969 4.8256927 3.4408 4.5878906 3 z "
+       transform="translate(0,1036.3622)"
+       id="rect818" />
   </g>
 </svg>
