@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17.066668"
+   height="17.066668"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_node_2d.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="icon_script_create_dialog.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="45.254833"
+     inkscape:cx="4.3635148"
+     inkscape:cy="9.1567888"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       empspacing="4"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <path
+       style="opacity:1;fill:#a5efac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       d="M 6,1 V 2 C 5.4477153,2 5,2.4477153 5,3 V 13 H 4 V 11 H 2 v 2 c 2.826e-4,0.356983 0.1908437,0.686743 0.5,0.865234 C 2.6519425,13.953279 2.8243914,13.999759 3,14 v 1 h 6 v -2 -3 0 L 12,8 V 5 h 3 V 3 C 15,1.8954305 14.104569,1 13,1 Z"
+       transform="translate(0,1036.3622)"
+       id="rect4255"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccccccccccccccssc" />
+    <path
+       style="opacity:1;fill:#87e29f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       d="M 6,1 C 4.8954305,1 4,1.8954305 4,3 v 7 H 2 1 v 1 2 c 0,1.104569 0.8954305,2 2,2 1.1045695,0 2,-0.895431 2,-2 V 3 C 5,2.4477153 5.4477153,2 6,2 6.5522847,2 7,2.4477153 7,3 v 1 1 1 h 1 4 V 5 H 8 V 4 3 C 8,1.8954305 7.1045695,1 6,1 Z M 2,11 h 2 v 2 C 4,13.552285 3.5522847,14 3,14 2.4477153,14 2,13.552285 2,13 Z"
+       id="path4265"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1036.3622)" />
+    <circle
+       cy="1048.3622"
+       cx="3"
+       id="ellipse4234"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       r="0" />
+    <ellipse
+       style="fill:#87e29f;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+       id="path4495"
+       cx="12"
+       cy="1048.3622"
+       rx="0.5"
+       ry="3" />
+    <ellipse
+       ry="3"
+       rx="0.5"
+       cy="513.78882"
+       cx="913.90826"
+       id="ellipse4497"
+       style="fill:#87e29f;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+       transform="rotate(60)" />
+    <ellipse
+       transform="rotate(120)"
+       style="fill:#87e29f;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+       id="ellipse4499"
+       cx="901.90826"
+       cy="-534.57343"
+       rx="0.5"
+       ry="3" />
+  </g>
+</svg>
