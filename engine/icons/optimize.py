@@ -1,6 +1,5 @@
-# this is a very quick-n-dirty script to optimize SVGS and generate
+# This is a very quick-n-dirty script to optimize SVGS and generate
 # darker variations for white themes.
-#
 
 import os
 from os import listdir, mkdir
@@ -95,7 +94,6 @@ scour_options = " ".join([
 	"--indent=none",
 	"--strip-xml-prolog",
 	"--remove-descriptive-elements",
-	"--enable-comment-stripping"
 ])
 
 
@@ -142,7 +140,7 @@ old_files = set(hashes.keys())
 new_files = set(new_hashes.keys())
 files_to_remove = old_files - new_files
 for rfile in files_to_remove:
-	print("removing deprecated file: %s" % rfile)
+	print("Removing deprecated file: %s" % rfile)
 	# remove the actual files
 	if isfile('%s/%s.svg' % (out_path, rfile)):
 		os.remove('%s/%s.svg' % (out_path, rfile))
@@ -151,5 +149,5 @@ for rfile in files_to_remove:
 
 
 with open("hashes", "w") as f:
-	for (k,v) in new_hashes.items():
+	for (k, v) in new_hashes.items():
 		f.write("%s %s\n" % (k, v))
