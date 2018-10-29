@@ -7,7 +7,7 @@ The purpose of this repo is:
 - provide high quality assets and UX recommendations to the godot engine
 
 Folders are organized as follows:
-- archives: anything decrecated should go to this folder
+- archives: anything deprecated should go to this folder
 - communication: everything needed for communication such like flyers, poster, banners, etc...
 - concepts: here to store design ideas, fanarts, etc...
 - engine: everything included into Godot's software (especially icons)
