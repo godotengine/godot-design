@@ -1,17 +1,26 @@
-# godot-design
-UX stuff for the godot engine.
+# Design elements for Godot
 
-The purpose of this repo is:
-- to share ideas, proposals and assets related to the godot engine UX
-- discuss the proposed ideas in order to make them better and reach consensus
-- provide high quality assets and UX recommendations to the godot engine
+## Purposes of this repository
 
-Folders are organized as follows:
-- archives: anything deprecated should go to this folder
-- communication: everything needed for communication such like flyers, poster, banners, etc...
-- concepts: here to store design ideas, fanarts, etc...
-- engine: everything included into Godot's software (especially icons)
-- godette: designs for the personified Godot character
-- goodies: t-shirts, mugs, stickers, business cards, etc...
-- wallpapers
-- websites: everything related to Godot's several websites or community (Main website, Patreon, Facebook page, etc...)
+- Share ideas, proposals and assets related to Godot's user experience.
+- Discuss the proposed ideas in order to make them better and reach consensus.
+- Provide high-quality assets and UX recommendations for Godot.
+
+## Repository structure
+
+- **`archives`:** Anything deprecated should go to this folder.
+- **`communication`:** Everything needed for communication such as flyers,
+  posters, banners, …
+- **`concepts`:** Here to store design ideas, fan art, …
+- **`engine`:** Everything included into the Godot editor (especially icons).
+- **`godette`:** Designs for the personified Godot character.
+- **`goodies`:** T-shirts, mugs, stickers, business cards, …
+- **`screenshots`:** Screenshots of the editor to use for demonstration
+  purposes.
+- **`wallpapers`**: Official or fan-made wallpapers.
+- **`websites`:** Everything related to Godot's Web presence or communities.
+
+## License
+
+Unless otherwise specified, files contained in this repository are licensed
+under CC BY 4.0 International, as described in the [`LICENSE`](/LICENSE) file.
