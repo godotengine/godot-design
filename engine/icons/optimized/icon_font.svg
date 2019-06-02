@@ -5,9 +5,9 @@
 <rect x="5" y="1050.4" width="6" height="1"/>
 <rect transform="rotate(90)" x="1037.4" y="-2" width="4" height="1"/>
 <rect transform="rotate(90)" x="1037.4" y="-15" width="4" height="1"/>
-<path transform="translate(0 1036.4)" d="m2 3v2a2 2 0 0 1 2 -2h-2z"/>
+<path transform="translate(0 1036.4)" d="m2 3v2a2 2 0 0 1 2-2h-2z"/>
 <path transform="translate(0 1036.4)" d="m12 3a2 2 0 0 1 2 2v-2h-2z"/>
-<path d="m5 1050.4a2 2 0 0 0 2 -2v2h-2z"/>
-<path d="m11 1050.4a2 2 0 0 1 -2 -2v2h2z"/>
+<path d="m5 1050.4a2 2 0 0 0 2-2v2h-2z"/>
+<path d="m11 1050.4a2 2 0 0 1-2-2v2h2z"/>
 </g>
 </svg>
