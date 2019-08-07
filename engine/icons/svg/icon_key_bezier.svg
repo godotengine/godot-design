@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 10 10"
    id="svg6"
-   sodipodi:docname="icon_key_call.svg"
+   sodipodi:docname="icon_key_bezier.svg"
    inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata12">
@@ -41,9 +41,9 @@
      inkscape:window-height="1381"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="29.5"
-     inkscape:cx="-1.5254237"
-     inkscape:cy="4"
+     inkscape:zoom="8"
+     inkscape:cx="5.3977488"
+     inkscape:cy="-50.780289"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -59,6 +59,6 @@
        height="6.1027002"
        ry="0.76286"
        id="rect2"
-       style="fill:#66f376;fill-opacity:1" />
+       style="fill:#5792f6;fill-opacity:1" />
   </g>
 </svg>
