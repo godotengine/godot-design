@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 16 16"
    id="svg6"
-   sodipodi:docname="icon_interpolated_camera.svg"
+   sodipodi:docname="icon_rich_text_effect.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata12">
@@ -41,28 +41,32 @@
      inkscape:window-height="711"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="12.041261"
-     inkscape:cy="6.6339439"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-3.5092534"
+     inkscape:cy="9.7917558"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
     <inkscape:grid
        type="xygrid"
-       id="grid822"
-       spacingx="0.5"
-       spacingy="0.5" />
+       id="grid24" />
   </sodipodi:namedview>
   <g
      transform="translate(0 -1036.4)"
-     id="g4">
+     id="g4" />
+  <g
+     id="g92">
     <path
-       transform="translate(0,1036.4)"
-       d="M 9.5,4e-5 C 7.9308577,0.00183031 6.6281817,1.2125261 6.5117,2.77734 5.9606727,2.2778208 5.2437405,2.0007914 4.5,2 c -1.6568542,0 -3,1.3431458 -3,3 0.00179,1.2697973 0.802822,2.4009351 2,2.8242 V 10 c 0,0.554 0.44599,1 1,1 h 6 c 0.55401,0 0.985298,-0.446195 1,-1 V 9 l 3,2 V 5 l -3,2 V 5.2305 C 12.134856,4.6626698 12.498418,3.8517461 12.5,3 12.5,1.3431458 11.156854,0 9.5,0 Z m -6,12 v 4 h 1 v -4 z m 3,0 v 4 h 1 v -1 h 1 c 0.5522847,0 1,-0.447715 1,-1 v -1 c 0,-0.552285 -0.4482355,-1.023967 -1,-1 h -1 z m 5,0 c -0.552285,0 -1,0.447715 -1,1 v 2 c 0,0.552285 0.447715,1 1,1 h 1 c 0.552285,0 1,-0.447715 1,-1 v -2 c 0,-0.552285 -0.447715,-1 -1,-1 z m -4,1 h 1 v 1 h -1 z m 4,0 h 1 v 2 h -1 z"
-       id="path2"
+       style="fill:#e0e0e0;fill-opacity:1"
+       sodipodi:nodetypes="cccccccccccccccccccccccscccccccccc"
        inkscape:connector-curvature="0"
-       style="fill:#fc9c9c"
-       sodipodi:nodetypes="cccccsssscccccccccccccccccssssccssssssssscccccccccc" />
+       id="path2"
+       d="M 1,1 V 3 H 8 V 1 Z m 9,0 v 2 h 5 V 1 Z M 1,5 V 7 H 12 V 5 Z m 0,4 v 2 H 5 V 9 Z m 6,0 v 2 H 8 C 7.9550509,10.905299 7.9110943,10.797713 7.875,10.658203 7.7972834,10.357816 7.7706113,9.8409814 8.0390625,9.3652344 8.1205517,9.2211393 8.2210783,9.1039643 8.328125,9 Z m -6,4 v 2 H 9.28125 C 9.2147332,14.988452 9.1581466,14.985242 9.0800781,14.962891 8.7781321,14.876441 8.3151699,14.63044 8.0449219,14.15625 7.8112614,13.74415 7.8039132,13.306918 7.8554688,13 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="ellipse8"
+       d="m 12.215998,8.5980126 a 0.53334373,3.2000625 0 0 0 -0.509765,2.2753914 3.2000623,0.53334373 30 0 0 -2.2656249,-0.714844 3.2000623,0.53334373 30 0 0 1.7499999,1.601563 0.53334373,3.2000623 60 0 0 -1.7460938,1.599609 0.53334373,3.2000623 60 0 0 2.2578118,-0.710938 0.53334373,3.2000625 0 0 0 0.513672,2.34961 0.53334373,3.2000625 0 0 0 0.513672,-2.351563 3.2000623,0.53334373 30 0 0 2.253906,0.710938 3.2000623,0.53334373 30 0 0 -1.74414,-1.597656 0.53334373,3.2000623 60 0 0 1.748047,-1.59961 0.53334373,3.2000623 60 0 0 -2.261719,0.714844 0.53334373,3.2000625 0 0 0 -0.509766,-2.2773444 z"
+       style="fill:#cea4f1;stroke-width:1.06668746;fill-opacity:1" />
   </g>
 </svg>
