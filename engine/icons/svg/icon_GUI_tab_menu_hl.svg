@@ -12,7 +12,7 @@
    version="1.1"
    viewBox="0 0 6 16"
    id="svg6"
-   sodipodi:docname="icon_GUI_tab_menu.svg"
+   sodipodi:docname="icon_GUI_tab_menu_hl.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata12">
@@ -49,12 +49,14 @@
      inkscape:current-layer="svg6" />
   <g
      transform="translate(0 -1036.4)"
-     id="g4">
+     id="g4"
+     style="fill:#e0e0e0;fill-opacity:1">
     <path
        transform="translate(0 1036.4)"
        d="m3 0a2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -2 -2zm0 6a2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -2 -2zm0 6a2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -2 -2z"
        fill="#fff"
        fill-opacity=".39216"
-       id="path2" />
+       id="path2"
+       style="fill:#e0e0e0;fill-opacity:1" />
   </g>
 </svg>
