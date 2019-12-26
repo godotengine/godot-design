@@ -14,7 +14,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="/home/djrm/Projects/godot/tools/editor/icons/icon_add_track.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
@@ -72,8 +72,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;opacity:1"
-       d="M 3.984375 1.0019531 A 1.0001 1.0001 0 0 0 3.2929688 1.2929688 L 1.2929688 3.2929688 A 1 1 0 0 0 1.2929688 4.7070312 A 1 1 0 0 0 2.7070312 4.7070312 L 3 4.4140625 L 3 13 L 11.585938 13 L 11.292969 13.292969 A 1 1 0 0 0 11.292969 14.707031 A 1 1 0 0 0 12.707031 14.707031 L 14.707031 12.707031 A 1.0001 1.0001 0 0 0 14.707031 11.292969 L 12.707031 9.2929688 A 1 1 0 0 0 11.986328 9.0019531 A 1 1 0 0 0 11.292969 9.2929688 A 1 1 0 0 0 11.292969 10.707031 L 11.585938 11 L 5 11 L 5 4.4140625 L 5.2929688 4.7070312 A 1 1 0 0 0 6.7070312 4.7070312 A 1 1 0 0 0 6.7070312 3.2929688 L 4.7070312 1.2929688 A 1.0001 1.0001 0 0 0 3.984375 1.0019531 z "
-       id="path4284" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 3.984375,15 A 1,1 0 0 1 3.2929688,14.708684 l -2,-2 a 1,1 0 0 1 0,-1.414062 1,1 0 0 1 1.4140624,0 L 3,11.58759 V 3.0016529 h 8.585938 l -0.292969,-0.292969 a 1,1 0 0 1 0,-1.414062 1,1 0 0 1 1.414062,0 l 2,2 a 1,1 0 0 1 0,1.414062 l -2,2.0000002 a 1,1 0 0 1 -0.720703,0.2910157 1,1 0 0 1 -0.693359,-0.2910157 1,1 0 0 1 0,-1.4140622 l 0.292969,-0.292969 H 5 V 11.58759 l 0.2929688,-0.292968 a 1,1 0 0 1 1.4140624,0 1,1 0 0 1 0,1.414062 l -2,2 A 1,1 0 0 1 3.984375,15 Z"
+       id="path4284"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
