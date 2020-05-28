@@ -12,21 +12,15 @@
 - **`communication`:** Everything needed for communication such as flyers,
   posters, banners, …
 - **`concepts`:** Here to store design ideas, fan art, …
-- **`engine`:** Everything included into the Godot editor (especially icons).
+- **`engine`:** The Godot editor splash screens.
+  Icons are no longer part of this repository; they can now be found
+  [here](https://github.com/godotengine/godot/tree/master/editor/icons#readme).
 - **`godette`:** Designs for the personified Godot character.
 - **`goodies`:** T-shirts, mugs, stickers, business cards, …
 - **`screenshots`:** Screenshots of the editor to use for demonstration
   purposes.
 - **`wallpapers`**: Official or fan-made wallpapers.
 - **`websites`:** Everything related to Godot's Web presence or communities.
-
-## Icon optimization
-
-Editor icons must be first optimized before being added to the engine, to do so:
-- Add them to the "/engine/icons/svg" folder.
-- Run the "optimize.py" script (you must have `scour` installed).
-
-The optimized icons will be generated in the "/engine/icons/optimized" folder.
 
 ## License
 
